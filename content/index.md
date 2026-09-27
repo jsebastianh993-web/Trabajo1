@@ -1,16 +1,15 @@
 ---
 title: Lectura difractiva
 ---
-
-# Lectura difractiva
-
 Sebastián Ortiz
 
-Este espacio virtual reúne el desplazamiento de mi arreglo de investigación cuando entra en contacto con el concepto de [[Afecto-economias-afectivas]]. Está compuesto por notas textuales, carpetas y un grafo cartográfico. La organización busca ofrecer una lectura abierta y un mapa de exploración.
+Este espacio virtual reúne el desplazamiento de mi arreglo de investigación sobre [[Prácticas letradas académicas online]] cuando entra en contacto con el concepto de [[Afecto-economias-afectivas]] y da lugar a un [[Arreglo desplazado]]. 
 
-Las entradas principales son: [[Proyecto-Prácticas letradas académicas online]], [[Afecto-economias-afectivas]] y [[Arreglo desplazado]]. La primera es el eje central de mi arreglo de investigación inicial, la segunda condensa el concepto de las discusión postcualitativa que uso para desplazar mi propuesta y, por último, la tercera sintetiza y aventura un nuevo arreglo de investigación. 
+El espacio está compuesto por notas textuales, carpetas y un grafo cartográfico. La organización busca ofrecer una lectura abierta y un mapa de exploración.
 
-Antes, durante o después de la lectura de estas entradas es posible explorar las notas de tres formas:  
+**¿Cómo leerlo?**
+
+Sugiero comenzar leyendo las entradas [[Prácticas letradas académicas online]], [[Afecto-economias-afectivas]] y [[Arreglo desplazado]]. Antes, durante o después de la lectura de estas entradas es posible explorar las notas de tres formas:  
 
 1. El **grafo** ubicado a la derecha de la pantalla permite visualizar las relaciones entre las notas y mapear la relaciones conceptuales. Hacer click permite dirigirse directamente a una nota. Es posible también interactuar, acercarse a nodos o desplazarlos. 
 
@@ -21,6 +20,6 @@ Antes, durante o después de la lectura de estas entradas es posible explorar la
 Este trabajo es al mismo tiempo un ejercicio de experimentación con formas de visualizar, pensar y comunicar mi investigación. 
 ## Explorar
 
-- [[Proyecto-Prácticas letradas académicas online]]
+- [[Prácticas letradas académicas online]]
 - [[Afecto-economias-afectivas]]
 - [[Arreglo desplazado]]

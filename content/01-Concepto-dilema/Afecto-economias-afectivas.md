@@ -34,6 +34,6 @@ El afecto no se reduce a la emoción individual localizada en un sujeto. Se trat
 | | |
 
 ## Notas relacionadas
-- [[Proyecto-Prácticas letradas académicas online]]
+- [[Prácticas letradas académicas online]]
 - [[Arreglo desplazado]]
 
