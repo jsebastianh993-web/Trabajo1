@@ -19,4 +19,4 @@ La [recolección de datos](00-Arreglo-inicial/Elementos%20concretos/Diseño%20cu
 - [Modalidad a distancia](00-Arreglo-inicial/Elementos%20concretos/Modalidad%20a%20distancia)
 - [Diseño cualitativo](00-Arreglo-inicial/Elementos%20concretos/Diseño%20cualitativo)
 - [Estudiantes de magíster (participantes)](00-Arreglo-inicial/Elementos%20concretos/Estudiantes%20de%20magíster%20\(participantes\))
-- [Afecto-economías-afectivas](Afecto-economías-afectivas)
+- [Afectos (economías afectivas)](Afectos%20(economías%20afectivas).md)

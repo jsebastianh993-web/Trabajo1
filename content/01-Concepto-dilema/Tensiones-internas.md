@@ -18,5 +18,5 @@
 
 ## Vínculo con tu arreglo
 
-- [[Afecto-economías-afectivas|← volver al concepto]]
+- [[Afectos (economías afectivas)|← volver al concepto]]
 - [[Arreglo inicial - especulación]]

@@ -1,7 +1,8 @@
 #arreglo-desplazado 
- 
- 
- *Cada formulación de mi proyecto es una maqueta donde colapso selectivamente para que otros tengan una muestra de mí. Una pequeña degustación. Se trata tanto de mi problema como de mí.*
+
+Este arreglo no tiene título. Es apenas el bosquejo de una serie de relaciones por explorar. 
+
+ *Cada reformulación de mi proyecto es una maqueta donde colapso selectivamente para que otros tengan una muestra de mí. Una pequeña degustación. Se trata tanto de mi problema como de mí.*
 
 *Las formulaciones están hechas de articulaciones de cartón, palitos y pegamento frío. Simulacros de materiales que luego deberían ser barras, columnas y concreto. Es una maqueta móvil y ligera. Se supone que simplifica, visualiza algo más.
 
@@ -14,8 +15,3 @@ ________________________________________________________________________
 
 *Parece que escribiera sin mencionar que en cada línea que escribo parece jugarse una parte de mí.*
 **Relacionados**
-[[Espacios (desplazado)]]
-[[Instrumentos y protocolos (desplazado)]]
-[[Participantes (desplazado)]]
-[[Tema de investigación (desplazado)]]
-[[Tiempos, plazos y financiamiento (desplazado)]]
