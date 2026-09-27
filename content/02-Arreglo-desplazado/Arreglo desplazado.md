@@ -1,21 +1,41 @@
 #arreglo-desplazado 
 
-Este arreglo no tiene título. Es apenas el bosquejo de una serie de relaciones por explorar y se organiza en una serie de distanciamientos, desplazamientos y reconfiguraciones. En las notas de esta carpeta, en cursiva complemento con una serie de textos que exploran registros distintos. 
+Este arreglo es apenas el bosquejo de una serie de relaciones por explorar y se organiza por distanciamientos, desplazamientos y recirculaciones. 
 
 Mi [[Prácticas letradas académicas online|objetivo inicial]] inicial asume:
+ 
+1. La escritura académica media las negociaciones identitarias.
+2. La escritura es la práctica letrada privilegiada de las negociaciones identitarias. 
+3. La modalidad a distancia imprime un carácter particular a estas negociaciones, que pueden ser vistas estudiando la escritura académica. 
+4. Las prácticas son de los estudiantes de magíster, ellos son el sujeto que las producen. 
+5. Los estudiantes son sujetos (y están sujetos) que "negocian", o sea tienen agencia dentro de estructuras que los condicionan. 
+6. La escritura es principalmente humana/social y alfabética.
+7. Un año es suficiente para saber algo sobre las negociaciones identitarias.
 
-1. Las prácticas letradas de estudiantes de magíster a distancia conllevan negociaciones identitarias. 
-2. La escritura académica media las negociaciones identitarias.
-3. La modalidad a distancia imprime un carácter particular a estas prácticas, que pueden ser vistas estudiando la escritura académica. 
-4. Las prácticas son de los estudiantes de magíster, ellos son el sujeto que las produce. 
+Al atravesar los afectos, [[Afectos (economías afectivas)]] me desplazo y se reconstruye mi maqueta. *Cada reformulación de mi proyecto es una maqueta donde colapso selectivamente. Anid, las clases, la candidatura. Siempre es una pequeña degustación: 
 
-Descolocar este arreglo 
+1. Es necesario desestabilizar la díada escritura académica/negociaciones identitarias. Para esto, pienso explorar la potencialidad de las [[Prácticas de literacidad]] (no necesariamente escritura, no necesariamente literacidad alfabética). Estas prácticas son afectivas, reorganizan cuerpos, flujos, fuerzas, deseos, poderes. 
+2. Los estudiantes están en ensamblajes productivos en contacto con [[cuerpos]] [[humanos]] y [[no-humanos]] (Fox & Alldred, 2015). Así, las [[prácticas de literacidad]] se dan en contactos afectivos con [[pantallas]], [[teclados]], [[agentes de IA]], [[literatura]], [[espacios físicos]], [[sillas]], [[cámaras]], [[identidades]], [[trabajos]], [[familias]], [[cafés]] y [[luces artificales]]. Este ensamblaje se ve, escucha y siente posthumano (Braidotti, 2015).
+3. Cuando enseño en la virtualidad, mis estudiantes están en sus [[casas]], [[oficinas]], [[puestos de trabajo en tiendas]]. Van en [[transporte público]], escriben en su [[celular]] ¿Qué [[Afectos (economías afectivas)]] atraviesan estas relaciones? ¿Cómo formular un arreglo que no se pierda en lo molar (Strom, 2018)?
+4. Una [[estudiante de maestría]] en [[Colombia 1]] me envío su trabajo diciéndome que su celular no le permitía aplicar la sangría francesa de las referencias en formato APA y por eso tardó más de la cuenta.
+ 
+*Las maquetas están hechas de articulaciones de cartón, palitos y pegamento frío. Simulacros de materiales que luego deberían ser barras, columnas y concreto. ¿Cómo construir un texto que sepa que puede ser lo que todavía no es? Preferiría armar una maqueta móvil.
 
-________________________________________________________________________
-*Cada reformulación de mi proyecto es una maqueta donde colapso selectivamente para que otros tengan una muestra de mí. Una pequeña degustación. Se trata tanto de mi problema como de mí.*
+5. Creo que se abre: ¿Cómo se caracterizan las [[Prácticas de literacidad]] en educación superior posgradual a [[distancia]]?
+6. Los textos y la voz de los estudiantes siguen siendo insuficientes. El estudio de caso cede su lugar a una integración, una [[textografía]], combinación de [[etnografía digital]], [[análisis textual 1]] y [[producción de materialidades]]. 
 
-*Las formulaciones están hechas de articulaciones de cartón, palitos y pegamento frío. Simulacros de materiales que luego deberían ser barras, columnas y concreto. Es una maqueta móvil y ligera. Se supone que simplifica, visualiza algo más.
+*¿Por qué usar el mismo marco metodológico para estudiar dos problemas que, de entrada, se suponen distintos? No es lo mismo en Chile que en Colombia. Mi arreglo inicial tiene una vocación a generalizar. Igual, de alguna forma, esto dice algo sobre algo.*
 
-*En esos caracteres estoy frente a otros ojos, que inspeccionan y leen algo sobre el problema de investigación, sobre la relevancia de lo que pienso hacer, sobre la escritura. Leen sobre muchos elementos que yo tiendo a pensar míos*
+5. En [[Colombia 1]] la educación a distancia es una de las principales apuesta para el acceso a la educación superior (Minedu, 2025) ¿Qué hay en el deseo de seguirse formando? ¿por qué hacer un posgrado? ¿por qué uno virtual?
+6. Si tuviera que decírselo a alguien en el doctorado, le diría, con poca seguridad, que me estoy pensando el problema desde un marco más [[postcualitativo]] (St. Pierre, 2014).
+7. Hay una forma deseada que toma la escritura y la lectura en un posgrado. En los estudios de literacidad se llama [[literacidad dominante]]. En su conexión afectiva con ese ensamblaje, en su actualización, los estudiantes se mueven hacia lugares que todavía desconozco. Alteran sus cuerpos.
+
+*En los caracteres que escribo estoy frente a otros ojos, que inspeccionan y leen algo sobre mí. El problema de investigación,  la relevancia de lo que pienso hacer, la escritura.*
+
+8. Los [[artículos]] del compendio serán parte de los resultados de la investigación. Probablemente sean en inglés. Sin embargo, la investigación tiene que dejar resultados en español, resultados que mi participantes puedan crear ver, en los que no pierda un poco más de los ensamblajes en los que están. Tampoco puede ser todo tan obtuso que no se pueda comprender. Es necesario producir desde la narración, las artes, el mundo de lo [[digital]]. 
+9. El financiamiento es posibilidad material. Abre y reduce capacidades. Permite y condiciona. [[ANID 1]] sigue estando en este ensamblaje. 
 
 *Mi propuesta debería volverse una investigación doctoral, las maquetas deberían ser una construcción y yo debería volverme algo más. De todas formas, antes es necesario llegar a tiempo el día de entrega de cada maqueta.*
+
+10. Mi trabajo deber permitir visualizar la potencia. La educación superior está migrando a nivel global a modalidades híbridas y virtuales (2025) y no creo posible seguir ignorándolo. 
+
