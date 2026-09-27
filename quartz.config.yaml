@@ -154,19 +154,53 @@ plugins:
   - source: "@quartz-community/content-page"
     enabled: true
   - source: "@quartz-community/folder-page"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/tag-page"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      folderClickBehavior: collapse
+      folderDefaultState: collapsed
+      useSavedState: true
     layout:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
+    options:
+      localGraph:
+        drag: true
+        zoom: true
+        depth: 1
+        scale: 1.1
+        repelForce: 2
+        centerForce: 0.1
+        linkDistance: 70
+        fontSize: 0.75
+        opacityScale: 1
+        showTags: false
+        removeTags: []
+        focusOnHover: true
+        enableRadial: false
+      globalGraph:
+        drag: true
+        zoom: true
+        depth: -1
+        scale: 0.9
+        repelForce: 3
+        centerForce: 0.2
+        linkDistance: 90
+        fontSize: 0.7
+        opacityScale: 1
+        showTags: false
+        removeTags: []
+        focusOnHover: true
+        enableRadial: true
     layout:
       position: right
       priority: 10
+
   - source: "@quartz-community/search"
     enabled: true
     layout:
