@@ -1,0 +1,9 @@
+#arreglo-inicial 
+
+Más de mi texto teórico.
+
+**Qué es:** Según los NLS, las prácticas letradas no constituyen un repertorio de habilidades, ni una taxonomía jerárquica de competencias, sino que están compuestas por eventos que se definen relacionalmente, en función de contextos, instituciones y comunidades específicas (Lillis & Scott, 2007). Las prácticas letradas implican recurrencia y no son directamente observables, pero pueden ser inferidas a partir del estudio de eventos de escritura y lectura. Dichos eventos, denominados eventos letrados, se encuentran embebidos en las prácticas, son observables localmente y permiten inferirlas (Barton & Hamilton, 2004). 
+
+**Qué permiten ver**: Al reconocer que las prácticas letradas implican diferentes relaciones de poder, el estudio de las literacidades académicas ha identificado que hay prácticas letradas que se privilegian sobre otras en contextos concretos (Lea & Street, 1998). Particularmente, en entornos de educación superior y con [[Estudiantes de magíster (participantes)]] estas “prácticas dominantes” tienen un correlato en la forma en que los sujetos construyen su identidad al participar (Barton & Hamilton, 2004). Las prácticas dominantes suelen asociarse con posturas deficitarias, desde las que se ve a los estudiantes de sistemas universitarios en proceso de expansión como sujetos que deben “nivelarse” (Ávila Reyes et al., 2020; Lillis, 2001).
+________________________________________________________________________
+*Hay una idea de recurrencia que es fundamental para el concepto de práctica letrada. Las prácticas sociales implican recurrencia y codificación. Las podemos entrever en eventos concretos. Leer un paper, escribir un ensayo, publicar un capítulo son eventos letrados, que en sí mismo no son PRÁCTICAS*
