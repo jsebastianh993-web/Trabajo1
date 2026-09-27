@@ -23,5 +23,5 @@ tags: [concepto]
 
 ## Vínculo con tu arreglo
 
-- [[Afecto-economias-afectivas|← volver al concepto]]
+- [[Afecto-economías-afectivas|← volver al concepto]]
 - [[Arreglo inicial - especulación]]

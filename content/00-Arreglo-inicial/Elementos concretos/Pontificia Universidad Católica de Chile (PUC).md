@@ -1,1 +1,2 @@
 #arreglo-inicial 
+La PUC es la institución desde la que investigo, no un sitio de estudio: es el lugar que me está formando como investigador/a doctoral, que fija los plazos de mi propio proceso y donde desarrollo mis propias prácticas letradas.

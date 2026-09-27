@@ -1,6 +1,6 @@
 #arreglo-inicial 
 
-Más de mi texto teórico.
+Este apartado es reconstruido desde mi entrega final de estudio dirigido en 2026-01.
 
 **Qué es:** Según los NLS, las prácticas letradas no constituyen un repertorio de habilidades, ni una taxonomía jerárquica de competencias, sino que están compuestas por eventos que se definen relacionalmente, en función de contextos, instituciones y comunidades específicas (Lillis & Scott, 2007). Las prácticas letradas implican recurrencia y no son directamente observables, pero pueden ser inferidas a partir del estudio de eventos de escritura y lectura. Dichos eventos, denominados eventos letrados, se encuentran embebidos en las prácticas, son observables localmente y permiten inferirlas (Barton & Hamilton, 2004). 
 

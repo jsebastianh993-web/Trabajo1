@@ -1,6 +1,16 @@
 ---
 tags: [arreglo-desplazado]
 ---
+*Naturalmente la selección de mis participantes responde a motivos que van más allá de lo académico*
+
+*En Colombia era profe de educación superior a distancia. Trabajaba con estudiantes por lo general mayores que yo. Varios de regiones lejanas a Bogotá, donde la universidad tenía su sede física. Gran parte de lo que ellos eran como estudiantes eran los textos (no solo escritos) que producían, entregaban y usaban para comunicarse conmigo y entre ellos. 
+
+*Cada curso era una red de textos disímiles*
+
+*¿Cómo declarar que me parece inconcebible hacer una investigación que no contribuya al contexto inicial del que surgió la idea?*
+
+*¿Cómo justificar tantas diferencias inexploradas desde el diseño y la investigación misma? ¿Cómo financiar o justificar a el desarrollo de una investigación que es solo parcialmente sobre Chile? ¿Cómo justificar estudiar fuera de Colombia?*
+
 
 # Participantes (desplazado por afecto y economías afectivas)
 

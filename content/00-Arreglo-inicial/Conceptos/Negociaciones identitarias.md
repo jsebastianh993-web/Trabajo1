@@ -1,6 +1,6 @@
 #arreglo-inicial 
-Más de mi texto teórico.
-[[Socialización]]
+
+Este apartado es reconstruido desde mi entrega final de estudio dirigido en 2026-01.
 
 **Qué es:** Las negociaciones identitarias refieren al proceso mediante el cual quien escribe construye y disputa una posición de sujeto en la [[Escritura académica]]. Esta identidad no es un atributo fijo que la persona trae consigo, sino algo que se negocia en el acto mismo de escribir: entre las convenciones discursiva y formas de agencia (Ivanič, 1998).
 
