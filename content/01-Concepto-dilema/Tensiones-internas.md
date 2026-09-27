@@ -1,8 +1,3 @@
----
-tags: [concepto]
----
-
-# Tensiones internas del concepto
 
 %% La rúbrica (Criterio 1, nivel Excelente) pide reconocer las tensiones internas del concepto y las posiciones que lo disputan, no solo definirlo. Usa esta nota para eso. %%
 

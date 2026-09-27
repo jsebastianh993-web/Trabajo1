@@ -1,3 +1,3 @@
 #arreglo-inicial 
 
-Chile es el país desde el cual se realiza mi investigación, donde están las entidades financiadores [[Pontificia Universidad Católica de Chile (PUC)]] y [[ANID]] y algunos de los [[Estudiantes de magíster (participantes)]]. Es un país con matrícula en incremento en posgrados online (MINEDUC, 2025) donde actualmente concentra el 25% total de la población. Es además el país desde el cual se quiere construir un caso comparable con el de [[Colombia]].
+Chile es el país desde el cual se realiza mi investigación, donde están las entidades financiadoras [[Pontificia Universidad Católica de Chile (PUC)]]y [[ANID]] y algunos de los [[Estudiantes de magíster (participantes)]]. Es un país con matrícula en incremento en posgrados online (MINEDUC, 2025) donde actualmente concentra el 25% total de la población. Es además el país desde el cual se quiere construir un caso comparable con el de [[Colombia]].

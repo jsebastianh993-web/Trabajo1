@@ -1,9 +1,4 @@
----
-tags: [concepto]
----
-
-# Afecto y economías afectivas
-
+#concepto 
 
 El afecto no se reduce a la emoción individual localizada en un sujeto. Se trata de una intensidad que circula entre cuerpos, objetos, discursos y espacios, y que los conecta o los separa. La noción de **economías afectivas** (Ahmed, 2018) insiste en que el afecto no "reside" en los objetos ni en los sujetos: se produce como efecto de la circulación misma. Un objeto se vuelve "adherente" (sticky) no porque contenga una emoción, sino porque acumula historia de contacto (Berlant, 2019; Ahret, 2024).
 

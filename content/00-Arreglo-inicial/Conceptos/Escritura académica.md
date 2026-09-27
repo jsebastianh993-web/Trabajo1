@@ -6,7 +6,7 @@ Este apartado es reconstruido desde mi entrega final de estudio dirigido en 2026
 
 **Qué permiten ver**: **Qué permite ver**: Pensar la escritura académica como práctica dominante permite ver que cuando los [[Estudiantes de magíster (participantes)]] están en fricción con una convención situada.
 
-Esto tiene además una consecuencia metodológica directa para mí: es la razón de la elección de las [[Entrevistas basadas en textos|entrevistas basadas en textos]] como instrumento.
+Esto tiene además una consecuencia metodológica directa para mí: es la razón de la elección de las [[00-Arreglo-inicial/Elementos concretos/Entrevistas basadas en textos|entrevistas basadas en textos]] como instrumento.
 
 ### Ver también
 
