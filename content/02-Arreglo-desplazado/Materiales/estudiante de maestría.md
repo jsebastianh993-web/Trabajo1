@@ -1,0 +1,2 @@
+#arreglo-desplazado 
+Llamarles "estudiantes de maestría" o "estudiantes de magíster" no nombra lo mismo con dos etiquetas intercambiables: cada palabra trae consigo su propia historia. Ya no son solo mis participantes. Ya no son los sujetos dueños de las prácticas letradas o de la escritura académica. 

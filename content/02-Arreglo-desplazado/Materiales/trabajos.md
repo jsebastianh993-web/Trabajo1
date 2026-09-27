@@ -1,0 +1,2 @@
+#arreglo-desplazado 
+Mis participantes son adultos con responsabilidades laborales. Yo mismo tengo responsabilidades laborales. Es un factor, condición y elemento que necesariamente entra en el arreglo. 

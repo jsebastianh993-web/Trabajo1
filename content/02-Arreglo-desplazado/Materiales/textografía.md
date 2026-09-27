@@ -1,1 +1,2 @@
 #arreglo-desplazado 
+Una textografía no junta dos técnicas neutrales que luego se suman en un resultado: es ella misma un dispositivo que multiplica los puntos de contacto donde algo puede adherirse. Cada texto, cada relato sobre el texto, cada rincón institucional que se observa, es una superficie más donde la intensidad puede quedar pegada, y donde yo misma quedo tocada al mirarlos juntos. Busca o pretende conectar textos, etnografía y entrevistas. 

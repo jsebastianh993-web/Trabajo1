@@ -1,1 +1,4 @@
 #arreglo-desplazado 
+De una de mis entregas teóricas para estudio dirigido, 2026-02.
+
+"Al reconocer que las prácticas letradas implican diferentes relaciones de poder, el estudio de las literacidades académicas ha identificado que hay prácticas letradas que se privilegian sobre otras en contextos concretos (Lea & Street, 1998). Particularmente, en entornos institucionales, estas “prácticas dominantes” tienen un correlato en la forma en que los sujetos construyen su identidad al participar (Barton & Hamilton, 2004). Las prácticas dominantes suelen asociarse con posturas deficitarias, desde las que se ve a los estudiantes de sistemas universitarios en proceso de expansión como sujetos que deben “nivelarse” (Ávila Reyes et al., 2020; Lillis, 2001).]"

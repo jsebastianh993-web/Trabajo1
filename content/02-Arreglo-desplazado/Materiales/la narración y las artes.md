@@ -1,1 +1,2 @@
 #arreglo-desplazado 
+*"Narrative research focuses on singularities, addressing the question of  ‘who one is’. At the heart of this proposition lies a philosophical tradition that focuses on difference rather than sameness and identity. In his major philosophical work, Difference and Repetition (1994), Deleuze has forcefully put forward the concept of pure difference, not different from, but different per se." (Livholts & Tamboukou, s. f., 66)*

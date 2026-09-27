@@ -1,5 +1,5 @@
 #arreglo-desplazado 
-Además de un juego de la forma, pienso que es una consecuencia necesaria de estudiar interacciones que privilegian canales digitales. Lo digital es lo que estudio, lo que habito, cómo lo estudio, atraviesa múltiples dimensiones. 
+Además de un juego de la forma, pienso que es una consecuencia necesaria de estudiar interacciones que privilegian canales digitales. Lo digital es lo que estudio, lo que habito, cómo lo estudio, atraviesa múltiples dimensiones. En lo digital confluyen [[Cuerpos]] y [[Afectos]]. 
 
 Implica la exploración de dispositivos, producción de datos y formas de comunicación. 
 

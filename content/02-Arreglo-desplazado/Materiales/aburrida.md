@@ -1,2 +1,1 @@
 #arreglo-desplazado 
-Espacios

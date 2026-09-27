@@ -1,0 +1,2 @@
+#arreglo-desplazado 
+La PUC es la institución desde la que investigo, no un sitio de estudio: es el lugar que me está formando como investigador/a doctoral. También posibilita y limita lo que puede ser este arreglo de investigación. 

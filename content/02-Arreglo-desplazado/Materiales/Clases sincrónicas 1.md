@@ -1,1 +1,2 @@
 #arreglo-inicial 
+Las clases sincrónicas son las sesiones a [[distancia]] que ocurren en tiempo real,por videoconferencia, con todos los participantes conectados simultáneamente. Espacios de conexión y desconexión. 

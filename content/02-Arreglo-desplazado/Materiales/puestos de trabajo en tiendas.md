@@ -1,0 +1,2 @@
+#arreglo-desplazado 
+- [[espacios físicos]]

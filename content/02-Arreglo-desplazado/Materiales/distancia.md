@@ -1,1 +1,2 @@
 #arreglo-desplazado 
+La distancia no es la ausencia de cuerpo compartido, sino una intensidad particular que circula quizás con más fuerza precisamente porque no hay copresencia que la disperse. No hay "más" o "menos" distancia como si fuera una cantidad fija de kilómetros pedagógicos: hay una circulación desigual, que a veces se intensifica en la ausencia. 

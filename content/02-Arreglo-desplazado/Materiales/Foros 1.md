@@ -1,1 +1,2 @@
 #arreglo-inicial 
+Se mantiene. Los foros son espacios de escritura asincrónica dentro del [[LMS 1]] donde la interacción queda registrada como texto persistente: a diferencia de una conversación oral, cada intervención en un foro es ya un evento letrado completo, con tiempo para redactar, revisar y citar antes de publicar. Esto los distingue de otros espacios del LMS (como los comentarios de retroalimentación sobre una entrega).
