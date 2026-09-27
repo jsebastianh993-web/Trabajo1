@@ -23,3 +23,5 @@ Este trabajo es al mismo tiempo un ejercicio de experimentación con formas de v
 - [[Prácticas letradas académicas online]]
 - [[Afectos (economías afectivas)]]
 - [[Arreglo desplazado]]
+
+*Parte del código de migración de notas y la adaptación del formato textual fue asistida con Claude ai. 

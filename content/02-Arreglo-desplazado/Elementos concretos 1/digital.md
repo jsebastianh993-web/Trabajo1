@@ -1,2 +1,0 @@
-#arreglo-desplazado 
-Más que un juego de la forma, es una consecuencia necesaria de estudiar interacciones que privilegian canales digitales. Implica la exploración de dispositivos, producción de datos y formas de comunicación. Este espacio digital del internet 2.0 es parte de esa experimentación.
