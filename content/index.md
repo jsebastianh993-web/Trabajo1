@@ -1,14 +1,21 @@
 ---
-title: Grafo Postcuali
+title: Lectura difractiva
 ---
 
-# Grafo Postcuali
+# Lectura difractiva
 
-Este espacio reúne notas, conceptos, tensiones y elementos de trabajo relacionados con mi proceso de investigación.
+Sebastián Ortiz
+
+Este espacio reúne el desplazamiento de mi arreglo de investigación cuando entra en contacto con el concepto de [[Afecto-economias-afectivas]]. La forma busca ofrecer una lectura abierta.
+
+El **grafo** ubicado a la derecha de la pantalla permite visualizar las relaciones entre las notas. Hacer en un nodo para abrir una nota permite explorar enlaces y descubrir otras conexiones y recorridos.
+
+La **barra lateral** a la izquierda organiza las notas en carpetas. Puedes expandirlas o contraerlas para navegar por los contenidos.
+
+También puede usarse la **búsqueda** para localizar una nota o concepto específico y, desde allí, continuar explorando el grafo.
 
 ## Explorar
 
-- [[¿Cómo explorar el grafo?]]
 - [[Proyecto-Prácticas letradas académicas online]]
 - [[Escritura académica]]
 - [[Negociaciones identitarias]]
