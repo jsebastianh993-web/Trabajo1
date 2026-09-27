@@ -1,4 +1,5 @@
 #arreglo-inicial 
+
 Este apartado es reconstruido desde mi segunda postulación a ANID, aún en proceso.
 
 **Qué es**: La socialización, en este marco, es el proceso mediante el cual una persona se va convirtiendo en miembro competente de una comunidad discursiva o disciplinar — no por aprender un conjunto de reglas explícitas, sino por participar progresivamente en las prácticas letradas de esa comunidad (Lave & Wenger, 1991; Calle-Arango y Ávila-Reyes, 2021)
