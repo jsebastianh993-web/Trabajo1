@@ -1,1 +1,2 @@
 #arreglo-inicial 
+Mientras siga existiendo, sigue siendo la fuente de financiamiento más llamativa para esta investigación. La [[Pontificia Universidad Católica de Chile (PUC) 1]] incentiva a sus estudiantes a postular y asegurar fondos que permitan el desarrollo y sostenimiento de la investigación. 
