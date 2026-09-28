@@ -27,7 +27,7 @@ Las maquetas están hechas de articulaciones de cartón, palitos y pegamento fr�
 ¿Por qué usar el mismo marco metodológico para estudiar dos problemas que, de entrada, se suponen distintos? No es lo mismo estudiar las prácticas de literacidad en Chile que en Colombia. Mucho menos en el marco de programas y sistemas altamente regulados de educación superior. Todavía no cierro esta pregunta, pero sé que mi arreglo inicial tiene una vocación a generalizar que tensiona el presente.
 
 5. En [[Colombia 1]] la educación a distancia es una de las principales apuestas para el acceso a la educación superior ¿Qué hay en el deseo de seguirse formando? ¿por qué hacer un posgrado? ¿por qué uno virtual? 
-6. Si tuviera que decírselo a alguien en el doctorado, le diría, con poca seguridad, que estoy pensando el problema desde un marco  [[postcualitativo]] (St. Pierre, 2014).
+6. Si tuviera que decírselo a alguien en el doctorado, le diría, con poca seguridad, que estoy pensando el problema desde un marco  [[postcualitativo]] (St. Pierre, 2019).
 7. Hay una forma deseada que toma la escritura y la lectura en un posgrado. En los estudios de literacidad podría vincularse con lo que se ha llamado la [[literacidad dominante]]. En su conexión afectiva con ese ensamblaje, en su actualización, los estudiantes se mueven hacia lugares que todavía desconozco. Alteran sus cuerpos y los ensamblajes que configuran.
 
 En los caracteres que escribo estoy frente a otros ojos, que inspeccionan y leen algo sobre mí. El problema de investigación,  la relevancia de lo que pienso hacer, la escritura.
