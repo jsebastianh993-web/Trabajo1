@@ -11,6 +11,6 @@ ________________________________________________________________________
 
 *Habito con las posibilidades y límites de los NLS hace un tiempo. La literacidad es material. No se reduce a la lectura lineal, a la escritura académica, a las representaciones alfabéticas. En el presente tiene que ver con multimodalidad. 
 
-*Recientemente un grupo de académicos explora las posibilidades de los estudios de literacidad y su contacto con el posthumanismo y el giro afectivo. Aún exploratorio, parece abrir un campo para mi investigación.*
+*Recientemente un grupo de académicos explora las posibilidades de los estudios de literacidad y su contacto con el posthumanismo y el giro afectivo. Esta propuesta aún exploratoria, parece abrir un campo para mi investigación.*
 ________________________________________________________________________
 
