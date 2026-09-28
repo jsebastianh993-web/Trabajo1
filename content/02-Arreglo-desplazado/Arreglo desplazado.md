@@ -21,8 +21,8 @@ Al atravesar [[Afectos (economías afectivas)]], me desplazo y se reconstruye mi
  
 Las maquetas están hechas de articulaciones de cartón, palitos y pegamento frío. Simulacros de materiales que luego deberían ser barras, columnas y concreto. ¿Cómo construir un texto que sepa que puede ser lo que todavía no es? Preferiría armar una maqueta móvil.
 
-5. Creo que se abre: ¿Cómo se caracterizan las [[Prácticas de literacidad]] en educación superior posgradual a [[distancia]]?
-6. Los textos y la voz de los estudiantes siguen siendo insuficientes. El estudio de caso cede su lugar a una integración, una [[textografía]], combinación de observación participante, [[Análisis textual 1]] y [[producción de materialidades]]. 
+1. Creo que se abre a la pregunta: ¿Cómo se caracterizan las [[Prácticas de literacidad]] en educación superior posgradual a [[distancia]]?
+2. Los textos y la voz de los estudiantes siguen siendo insuficientes. El estudio de caso cede su lugar a una integración, una [[textografía]], combinación de etnografía, [[Análisis textual 1]] y [[producción de materialidades]]. 
 
 ¿Por qué usar el mismo marco metodológico para estudiar dos problemas que, de entrada, se suponen distintos? No es lo mismo estudiar las prácticas de literacidad en Chile que en Colombia. Mucho menos en el marco de programas y sistemas altamente regulados de educación superior. Todavía no cierro esta pregunta, pero sé que mi arreglo inicial tiene una vocación a generalizar que tensiona el presente.
 
@@ -40,3 +40,9 @@ Mi propuesta debería volverse una investigación doctoral, las maquetas deberí
 10. Mi trabajo deber permitir visualizar la potencia. La educación superior está migrando a nivel global a modalidades híbridas y virtuales (UNESCO, 2025) y no creo posible seguir ignorándolo. 
 
 En su estado actual, este es un arreglo abierto y mucho menos explorado por mi parte que el anterior. 
+
+## Ver también
+
+- [[Cuerpos]]
+- [[Prácticas de literacidad]]
+- [[postcualitativo]]

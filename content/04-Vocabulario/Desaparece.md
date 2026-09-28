@@ -1,6 +1,5 @@
 #vocabulario 
 
-
 - [[Análisis temático]]
 - [[Diseño cualitativo]]
 - [[Estudiantes de magíster (participantes)]]
