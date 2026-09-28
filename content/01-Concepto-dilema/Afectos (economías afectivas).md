@@ -8,7 +8,7 @@ Esta definición no está exenta de [[Tensiones-internas]].
 
 **¿Por qué este concepto?**
 
-El concepto de afecto es probablemente uno de los más lejanos a mi arreglo inicial. Mi marco teórico sobre las [[Prácticas letradas académicas online]] entiende que la escritura no es un proceso exclusivamente individual, sino que está inmerso en relaciones, formas de participación, relaciones de poder y negociaciones identitarias. Sin embargo, hay tres puntos que deja sin explorar: 1) Los cuerpos no humanos que entran en juego en la escritura, 2) la producción afectiva al escribir en programas a distancia y 3) los flujos afectivos que implica la investigación y el proceso de producción de conocimiento en sí. 
+El concepto de afecto es probablemente uno de los más lejanos a mi arreglo inicial. Mi marco teórico sobre las [[Prácticas letradas académicas online]] entiende que la escritura no es un proceso exclusivamente individual, sino que está inmerso en relaciones, formas de participación, relaciones de poder y negociaciones identitarias. Sin embargo, hay tres puntos que deja sin explorar: 1) Los cuerpos no humanos que entran en juego en la escritura, 2) la producción afectiva al escribir en programas a distancia y 3) los flujos afectivos que implica la investigación y el proceso de producción de conocimiento en sí (por ejemplo, lo que entra en juego cuando investigue la escritura estudiantes de maestría desde una posición de poder, a pesar de no ser su docente). 
 
 En mi [[Arreglo desplazado]] exploro la posibilidad de que la escritura y las "prácticas letradas" puedan entenderse como ensamblajes que conectan afectivamente cuerpos humanos y no-humanos, al mismo tiempo que limitan o aumentan sus capacidades. 
 

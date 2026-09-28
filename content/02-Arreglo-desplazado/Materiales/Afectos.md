@@ -1,5 +1,3 @@
 #arreglo-desplazado 
 
-Intensidades que fluyen:
-- [[pena]]
-- [[aburrida]]
+Intensidades que fluyen.
