@@ -17,7 +17,7 @@ Sugiero comenzar leyendo las entradas [[Prácticas letradas académicas online]]
 
 3. Finalmente, puede usarse la **búsqueda** para localizar una nota, un concepto o una palabra específica y, desde allí, continuar explorando.
 
-Este trabajo es al mismo tiempo un ejercicio de experimentación con formas de visualizar, pensar y comunicar mi investigación. 
+Este trabajo es al mismo tiempo un ejercicio de experimentación con formas de visualizar, pensar y comunicar mi investigación. Se espera que cada sección invite a un tipo de lectura distinto. 
 ## Explorar
 
 - [[Prácticas letradas académicas online]]
