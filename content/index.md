@@ -15,7 +15,7 @@ Sugiero comenzar leyendo las entradas [[Prácticas letradas académicas online]]
 
 2. La **barra lateral** a la izquierda organiza las notas en carpetas. Cada carpeta concentra uno de los ejes de la cartografía. Desde allí puede seguirse una especie de progresión temática.
 
-3. Cada nota tiene hipervínculos que constituyen sus enlaces de salida. Es posible seguir una ruta similar a la navegación de una Wiki. 
+3. Cada nota tiene **hipervínculos** que constituyen sus enlaces de salida. Es posible seguir una ruta similar a la navegación de una Wiki. 
 
 4. Finalmente, puede usarse la **búsqueda** para localizar una nota, un concepto o una palabra específica y, desde allí, continuar explorando.
 

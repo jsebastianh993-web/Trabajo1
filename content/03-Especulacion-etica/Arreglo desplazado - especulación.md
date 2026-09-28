@@ -1,6 +1,3 @@
----
-tags: [arreglo-desplazado]
----
 
 # Especulación ética — arreglo desplazado (afecto y economías afectivas)
 
