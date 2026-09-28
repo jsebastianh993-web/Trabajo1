@@ -29,9 +29,10 @@ Este trabajo es al mismo tiempo un ejercicio de experimentación con formas de v
 *Parte del código de migración de notas y la adaptación del formato textual fue asistida con Claude ai. 
 
 **Bibliografía** 
+
 ACSES. (2026). Mode of attendance in Australian higher education: Analysis of 2024 data (2026 update). _ACSES_. https://www.acses.edu.au/publication/mode-of-attendance-2026-update/
 
-Ahmed, S. (2014). _La política cultural de las emociones_ (2a ed). Universidad Nacional Autónoma de México.
+Ahmed, S., & Olivares Mansuy, C. (2014). _La política cultural de las emociones_ (2a ed). Universidad Nacional Autónoma de México.
 
 Aitken, G., Smith, K., Fawns, T., & Jones, D. (2022). Participatory alignment: A positive relationship between educators and students during online masters dissertation supervision. _Teaching in Higher Education_, _27_(6), 772-786. https://doi.org/10.1080/13562517.2020.1744129
 
@@ -46,6 +47,8 @@ Bearman, M., Ajjawi, R., & O’Donnell, M. (2024). Life-on-campus or my-time-and
 Berlant, L. G. (2011). _Cruel optimism_. Duke University Press.
 
 Braidotti, R. (2018). Affirmative Ethics, Posthuman Subjectivity, and Intimate Scholarship: A Conversation with Rosi Braidotti. En _Decentering the Researcher in Intimate Scholarship: Critical Posthuman Methodological Perspectives in Education_ (Vol. 31, p. 0). Emerald Publishing Limited. https://doi.org/10.1108/S1479-368720180000031014
+
+Braidotti, R., & Hlavajova, M. (2018). _Posthuman glossary_. Bloomsbury academic.
 
 Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. _Qualitative Research in Psychology_, _3_(2), 77-101. https://doi.org/10.1191/1478088706qp063oa
 
@@ -80,6 +83,8 @@ Lillis, T. (2001). _Student writing: Access, regulation, desire_. Routledge.
 Lillis, T., & Scott, M. (2007). Defining academic literacies research: Issues of epistemology, ideology and strategy. _Journal of Applied Linguistics and Professional Practice_, 5-32. https://doi.org/10.1558/japl.v4i1.5
 
 Livholts, M., & Tamboukou, M. (s. f.). _Discourse and Narrative Methods_.
+
+Massumi, B. (1995). The Autonomy of Affect. _Cultural Critique_, (31), 83-109. https://doi.org/10.2307/1354446
 
 MINEDUC. (2025). _Informe 2025. Matrícula en Educación Superior en Chile_. https://mifuturo.cl/wp-content/uploads/2025/07/Informe_Matricula_2025_SIES.pdf
 
