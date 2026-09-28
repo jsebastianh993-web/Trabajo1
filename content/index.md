@@ -11,7 +11,7 @@ El espacio está compuesto por notas textuales, carpetas y un grafo cartográfic
 
 Sugiero comenzar leyendo las entradas [[Prácticas letradas académicas online]], [[Afectos (economías afectivas)]] y [[Arreglo desplazado]]. Antes, durante o después de la lectura de estas entradas es posible explorar las notas de cuatro formas:  
 
-1. El **grafo** ubicado a la derecha de la pantalla permite visualizar las relaciones entre las notas y mapear la relaciones conceptuales. Hacer click permite dirigirse directamente a una nota. Es posible también interactuar, acercarse a nodos o desplazarlos. 
+1. El **grafo** ubicado a la derecha de la pantalla permite visualizar las relaciones entre las notas y mapear la relaciones conceptuales. Hacer click permite ver el mapa completo. También es posible dirigirse directamente a una nota seleccionándola. Es posible también interactuar, acercarse a nodos o desplazarlos. 
 
 2. La **barra lateral** a la izquierda organiza las notas en carpetas. Cada carpeta concentra uno de los ejes de la cartografía. Desde allí puede seguirse una especie de progresión temática.
 
@@ -27,3 +27,5 @@ Este trabajo es al mismo tiempo un ejercicio de experimentación con formas de v
 - [[Arreglo desplazado]]
 
 *Parte del código de migración de notas y la adaptación del formato textual fue asistida con Claude ai. 
+
+**Bibliografía** 
