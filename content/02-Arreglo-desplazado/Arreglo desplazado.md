@@ -24,7 +24,7 @@ Las maquetas están hechas de articulaciones de cartón, palitos y pegamento fr�
 5. Creo que se abre a la pregunta: ¿Cómo se caracterizan las [[Prácticas de literacidad]] en educación superior posgradual a [[distancia]]?
 6. Los textos y la voz de los estudiantes siguen siendo insuficientes. El estudio de caso cede su lugar a una integración, una [[textografía]], combinación de etnografía digital, [[Análisis textual 1]] y [[producción de materialidades]]. 
 
-¿Por qué usar el mismo marco metodológico para estudiar dos problemas que, de entrada, se suponen distintos? No es lo mismo estudiar las prácticas de literacidad en Chile que en Colombia. Mucho menos en el marco de programas y sistemas altamente regulados de educación superior. Todavía no cierro esta pregunta, pero sé que mi arreglo inicial tiene una vocación a generalizar que sigue tensiona este desplazamiento.
+¿Por qué usar el mismo marco metodológico para estudiar dos problemas que, de entrada, se suponen distintos? No es lo mismo estudiar las prácticas de literacidad en Chile que en Colombia. Mucho menos en el marco de programas y sistemas altamente regulados de educación superior. Todavía no cierro esta pregunta, pero sé que mi arreglo inicial tiene una vocación a generalizar que tensiona este desplazamiento.
 
 5. En [[Colombia 1]] la educación a distancia es una de las principales apuestas para el acceso a la educación superior ¿Qué hay en el deseo de seguirse formando? ¿por qué hacer un posgrado? ¿por qué uno virtual? 
 6. Si tuviera que decírselo a alguien en el doctorado, le diría, con poca seguridad, que estoy pensando el problema desde un marco  [[postcualitativo]] (St. Pierre, 2019).
