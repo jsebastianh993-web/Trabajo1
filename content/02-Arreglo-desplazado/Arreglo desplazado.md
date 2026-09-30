@@ -7,7 +7,7 @@ Mi [[Prácticas letradas académicas online|objetivo inicial]] inicial asume:
 1. La escritura académica media las negociaciones identitarias.
 2. La escritura es la práctica letrada privilegiada de las negociaciones identitarias. 
 3. La modalidad a distancia imprime un carácter particular a estas negociaciones, que pueden ser vistas estudiando la escritura académica. 
-4. Las prácticas son de los estudiantes de magíster, ellos son el sujeto que las producen. 
+4. Las prácticas son de los estudiantes de magíster, ellos son los sujetos que las producen. 
 5. Los estudiantes son sujetos (y están sujetos) que "negocian", o sea tienen agencia dentro de estructuras que los condicionan. 
 6. La escritura es principalmente humana/social y alfabética.
 7. Un año es suficiente para saber algo sobre las negociaciones identitarias.
