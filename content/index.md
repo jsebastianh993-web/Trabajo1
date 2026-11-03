@@ -3,6 +3,8 @@ title: Prácticas letradas, afectos y materialidad en la educación superior
 ---
 Sebastián Ortiz
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/28qfj544k6pDavkWkyzvWz?utm_source=generator&si=2b5b5851c2d04f06" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Este espacio virtual comenzó reuniendo el desplazamiento de mi arreglo de investigación sobre [[Prácticas letradas académicas online]] al entrar en contacto con el concepto de [[Afectos (economías afectivas)]] y dar lugar a un [[Arreglo desplazado]]. 
 
 Actualmente, reúne un ensamblaje heterogéneo que busca producir y poner a prueba los alcances de un [[Ensamblaje de investigación]]. Este es a su vez un producto que se toca directamente con algunos [[Intentos]] por experimentar con formas de producir datos para mi investigación que sean consecuentes con un enfoque afectivo. Actualmente veo en la [giro afectivo](Afectos (economías afectivas)) una posibilidad para reconocer dimensiones materiales y corporales de la escritura y la lectura académica que tienden a ser omitidas.
