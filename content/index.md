@@ -3,19 +3,35 @@ title: Prácticas letradas, afectos y materialidad en la educación superior
 ---
 Sebastián Ortiz
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/28qfj544k6pDavkWkyzvWz?utm_source=generator&si=2b5b5851c2d04f06" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/38PTaSqKcn1NKafQRdXSby?utm_source=generator&theme=0&si=47773423ea494bce" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Este espacio virtual comenzó reuniendo el desplazamiento de mi arreglo de investigación sobre [[Prácticas letradas académicas online]] al entrar en contacto con el concepto de [[Afectos (economías afectivas)]] y dar lugar a un [[Arreglo desplazado]]. 
+Leer y escribir aún son prácticas centrales en la educación superior. Justo cuando se habla del ["fin de la lectura"](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/) en las universidades es también cuando leemos y escribimos más textos que nunca antes. [La productividad académica se ha disparado](https://openai.com/index/research-acceleration-view-inside-openai/) en todos los campos disciplinares y, contra muchos pronósticos, la colaboración y generación de investigación con IA ha comenzado a producir [pruebas y demostraciones inabarcables](https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted?referrer=https%3A%2F%2Fwww.google.com%2F) (e incluso incomprensibles) para científicos humanos. Incluso, ñas revisiones de literatura publicadas cada vez abarcan más textos, incluyen más referencias, lo que ha llevado a [repensar la lógica misma de este género académico](https://link-springer-com.pucdechile.idm.oclc.org/article/10.1007/s11301-025-00513-9).
 
-Actualmente, reúne un ensamblaje heterogéneo que busca producir y poner a prueba los alcances de un [[Ensamblaje de investigación]]. Este es a su vez un producto que se toca directamente con algunos [[Intentos]] por experimentar con formas de producir datos para mi investigación que sean consecuentes con un enfoque afectivo. Actualmente veo en la [giro afectivo](Afectos (economías afectivas)) una posibilidad para reconocer dimensiones materiales y corporales de la escritura y la lectura académica que tienden a ser omitidas.
+Sin embargo, en el campo de los estudios sobre literacidad y escritura académica, la IA es fundamentalmente una alerta para: 1) la agencia (Cassany, 2025), 2) la ética y 3) los modelos cognitivos. 
 
-**¿Cómo leer este sitio?**
+En un contexto de educación superior que cada vez gira más hacia las modalidades online ¿es posible seguir con enfoques de regulación ética obsesionados por los formatos de citación y la idea de autoría? ¿por qué seguimos limitando la indagación a la dimensión "social" de leer y escribir como si esta no fuera al mismo tiempo material y afectiva? 
 
-El espacio está compuesto por notas textuales, carpetas y un grafo cartográfico. La organización busca ofrecer una lectura abierta y un mapa de exploración.
+De estas preguntas surge [este espacio](explorar) en sus dos versiones. 
 
-Las entradas que organizan **los nodos** están enlazadas al final de esta nota. La secuencia lineal podría seguir una lectura que va desde el arreglo inicial hasta el ensamblaje. Sin embargo, este espacio busca proponer otro tipo de lectura, menos lineal, quizá similar a formas de leer que usamos cotidianamente en entornos académicos.  
+*V1*
 
-Antes, durante o después de la lectura de estas entradas es posible explorar el sitio de (al menos) cuatro formas:  
+Este espacio virtual comenzó reuniendo cómo se desplazan algunas de mis ideas de investigación sobre las [[Prácticas letradas académicas online]] al entrar en contacto con el concepto de [[Afectos (economías afectivas)]]. Este primer momento dio lugar a un [[Arreglo desplazado]] provisorio.
+
+*V2*
+
+En esta segunda versión, busco producir y poner a prueba formas de producir datos. Es el resumen de un [[Ensamblaje de investigación]] sobre leer y escribir en la educación superior en el presente. Las experiencias aquí recogidas son [[Intentos]] por experimentar con formas de producir datos para mi investigación. Puntualmente, veo en el [giro afectivo](Afectos (economías afectivas)) una posibilidad para reconocer dimensiones materiales y corporales de la escritura y la lectura académica que tendemos a omitir. Más allá de su apariencia individual y mental, incluso en la distancia, leer y escribir son prácticas sociales y materiales. 
+
+**Navegar este sitio**
+
+El espacio está compuesto por notas, carpetas y un grafo cartográfico. La organización busca ofrecer una lectura abierta y un mapa de exploración. En esta versión algunas notas tienen música que puede acompañar la lectura. 
+
+Las entradas que organizan **los nodos** están enlazadas [al final de esta nota](#Explorar). La secuencia lineal podría seguir una lectura que va desde el arreglo inicial hasta el ensamblaje. Esta misma estructura está replicada en las carpetas, a la izquierda de la pantalla.
+
+Sin embargo, este espacio busca proponer otro tipo de lectura. Esta potencia de la lectura fragmentaria quizá está conectada a formas de leer que usamos cotidianamente (para trabajar, estudiar, comunicarnos con nuestros seres queridos, interactuar en un Chat con IAG). 
+
+**Posibles rutas**
+
+Antes, durante o después de la lectura de estas entradas es posible explorar el sitio de al menos cuatro formas:  
 
 1. El **grafo** ubicado a la derecha de la pantalla permite visualizar los enlaces entre las notas y mapear la relaciones conceptuales. Hacer click permite ver el mapa completo. También es posible dirigirse directamente a una nota seleccionándola, interactuar, acercarse a nodos o desplazarlos. 
 
@@ -24,6 +40,8 @@ Antes, durante o después de la lectura de estas entradas es posible explorar el
 3. Cada nota tiene **hipervínculos** que constituyen sus enlaces de salida. Es posible seguir una ruta similar a la navegación de una Wiki. 
 
 4. Finalmente, puede usarse la **búsqueda** para localizar una nota, un concepto o una palabra específica y, desde allí, continuar explorando.
+
+En esta versión algunas notas tienen música que puede escucharse para acompañar la lectura. 
 
 Este trabajo es al mismo tiempo un ejercicio de experimentación con formas de visualizar, pensar y comunicar mi investigación. Se espera que cada sección invite a un tipo de lectura distinto. 
 ## Explorar
@@ -34,7 +52,7 @@ Este trabajo es al mismo tiempo un ejercicio de experimentación con formas de v
 - [[Ensamblaje de investigación]]
 - [[Intentos]]
 
-*Parte del código de migración de notas y la adaptación del formato textual fue asistida con Claude AI. 
+*Parte del código de migración de notas y la adaptación del formato textual .md fue asistida con Claude AI.*
 
 **Referencias** 
 
