@@ -5,11 +5,9 @@ Sebastián Ortiz
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/38PTaSqKcn1NKafQRdXSby?utm_source=generator&theme=0&si=47773423ea494bce" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Leer y escribir aún son prácticas centrales en la educación superior. Justo cuando se habla del ["fin de la lectura"](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/) en las universidades es también cuando leemos y escribimos más textos que nunca antes. [La productividad académica se ha disparado](https://openai.com/index/research-acceleration-view-inside-openai/) en todos los campos disciplinares y, contra muchos pronósticos, la colaboración y generación de investigación con IA ha comenzado a producir [pruebas y demostraciones inabarcables](https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted?referrer=https%3A%2F%2Fwww.google.com%2F) (e incluso incomprensibles) para científicos humanos. Incluso, ñas revisiones de literatura publicadas cada vez abarcan más textos, incluyen más referencias, lo que ha llevado a [repensar la lógica misma de este género académico](https://link-springer-com.pucdechile.idm.oclc.org/article/10.1007/s11301-025-00513-9).
+Leer y escribir aún son prácticas centrales en la educación superior. Justo cuando se habla del ["fin de la lectura"](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/) en las universidades es también cuando leemos y escribimos más textos que nunca antes. [La productividad académica se ha disparado](https://openai.com/index/research-acceleration-view-inside-openai/) en todos los campos disciplinares y, contra muchos pronósticos, la colaboración y generación de investigación con IA ha comenzado a producir [pruebas y demostraciones inabarcables](https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted?referrer=https%3A%2F%2Fwww.google.com%2F) (e incluso incomprensibles) para científicos humanos. Incluso, las revisiones de literatura publicadas cada vez abarcan más textos, incluyen más referencias y la comunidad científica ha comenzado [repensar la lógica misma de este género académico](https://link-springer-com.pucdechile.idm.oclc.org/article/10.1007/s11301-025-00513-9).
 
-Sin embargo, en el campo de los estudios sobre literacidad y escritura académica, la IA es fundamentalmente una alerta para: 1) la agencia (Cassany, 2025), 2) la ética y 3) los modelos cognitivos. 
-
-En un contexto de educación superior que cada vez gira más hacia las modalidades online ¿es posible seguir con enfoques de regulación ética obsesionados por los formatos de citación y la idea de autoría? ¿por qué seguimos limitando la indagación a la dimensión "social" de leer y escribir como si esta no fuera al mismo tiempo material y afectiva? 
+En un contexto de educación superior que cada vez gira más hacia las modalidades online (UNESCO, 2026) ¿es posible seguir con enfoques de regulación ética obsesionados por los formatos de citación y la idea de autoría? ¿por qué seguimos limitando la indagación a la dimensión "social" de leer y escribir como si esta no fuera al mismo tiempo profundamente material, digital y afectiva?
 
 De estas preguntas surge [este espacio](explorar) en sus dos versiones. 
 
@@ -23,15 +21,13 @@ En esta segunda versión, busco producir y poner a prueba formas de producir dat
 
 **Navegar este sitio**
 
-El espacio está compuesto por notas, carpetas y un grafo cartográfico. La organización busca ofrecer una lectura abierta y un mapa de exploración. En esta versión algunas notas tienen música que puede acompañar la lectura. 
+El espacio está compuesto por notas, carpetas y un grafo cartográfico. En esta versión algunas notas tienen música que puede acompañar la lectura. Las entradas que organizan **los nodos** están enlazadas [al final de esta nota](#Explorar). La secuencia lineal de lectura podría comenzar por el arreglo inicial hasta y seguir el orden de las carpetas hasta el ensamblaje. 
 
-Las entradas que organizan **los nodos** están enlazadas [al final de esta nota](#Explorar). La secuencia lineal podría seguir una lectura que va desde el arreglo inicial hasta el ensamblaje. Esta misma estructura está replicada en las carpetas, a la izquierda de la pantalla.
+Sin embargo, este espacio busca proponer otro tipo de lectura. Esta potencia de la lectura fragmentaria quizá está conectada a formas de leer que usamos cotidianamente (para trabajar, estudiar, comunicarnos con nuestros seres queridos, interactuar en un Chat con IAG, entre otras). 
 
-Sin embargo, este espacio busca proponer otro tipo de lectura. Esta potencia de la lectura fragmentaria quizá está conectada a formas de leer que usamos cotidianamente (para trabajar, estudiar, comunicarnos con nuestros seres queridos, interactuar en un Chat con IAG). 
+**Comenzar una ruta**
 
-**Posibles rutas**
-
-Antes, durante o después de la lectura de estas entradas es posible explorar el sitio de al menos cuatro formas:  
+Es posible explorar el sitio de al menos cuatro formas:  
 
 1. El **grafo** ubicado a la derecha de la pantalla permite visualizar los enlaces entre las notas y mapear la relaciones conceptuales. Hacer click permite ver el mapa completo. También es posible dirigirse directamente a una nota seleccionándola, interactuar, acercarse a nodos o desplazarlos. 
 
