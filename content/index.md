@@ -1,17 +1,21 @@
 ---
-title: Lectura difractiva
+title: Prácticas letradas, afectos y materialidad en la educación superior
 ---
 Sebastián Ortiz
 
-Este espacio virtual reúne el desplazamiento de mi arreglo de investigación sobre [[Prácticas letradas académicas online]] cuando entra en contacto con el concepto de [[Afectos (economías afectivas)]] y da lugar a un [[Arreglo desplazado]]. 
+Este espacio virtual comenzó reuniendo el desplazamiento de mi arreglo de investigación sobre [[Prácticas letradas académicas online]] al entrar en contacto con el concepto de [[Afectos (economías afectivas)]] y dar lugar a un [[Arreglo desplazado]]. 
+
+Actualmente, reúne un ensamblaje heterogéneo que busca producir y poner a prueba los alcances de un [[Ensamblaje de investigación]]. Este es a su vez un producto que se toca directamente con algunos [[Intentos]] por experimentar con formas de producir datos para mi investigación que sean consecuentes con un enfoque afectivo. Actualmente veo en la [giro afectivo](Afectos (economías afectivas)) una posibilidad para reconocer dimensiones materiales y corporales de la escritura y la lectura académica que tienden a ser omitidas.
+
+**¿Cómo leer este sitio?**
 
 El espacio está compuesto por notas textuales, carpetas y un grafo cartográfico. La organización busca ofrecer una lectura abierta y un mapa de exploración.
 
-**¿Cómo leerlo?**
+Las entradas que organizan **los nodos** están enlazadas al final de esta nota. La secuencia lineal podría seguir una lectura que va desde el arreglo inicial hasta el ensamblaje. Sin embargo, este espacio busca proponer otro tipo de lectura, menos lineal, quizá similar a formas de leer que usamos cotidianamente en entornos académicos.  
 
-Sugiero comenzar leyendo las entradas [[Prácticas letradas académicas online]], [[Afectos (economías afectivas)]] y [[Arreglo desplazado]]. Antes, durante o después de la lectura de estas entradas es posible explorar las notas de cuatro formas:  
+Antes, durante o después de la lectura de estas entradas es posible explorar el sitio de (al menos) cuatro formas:  
 
-1. El **grafo** ubicado a la derecha de la pantalla permite visualizar las relaciones entre las notas y mapear la relaciones conceptuales. Hacer click permite ver el mapa completo. También es posible dirigirse directamente a una nota seleccionándola. Es posible también interactuar, acercarse a nodos o desplazarlos. 
+1. El **grafo** ubicado a la derecha de la pantalla permite visualizar los enlaces entre las notas y mapear la relaciones conceptuales. Hacer click permite ver el mapa completo. También es posible dirigirse directamente a una nota seleccionándola, interactuar, acercarse a nodos o desplazarlos. 
 
 2. La **barra lateral** a la izquierda organiza las notas en carpetas. Cada carpeta concentra uno de los ejes de la cartografía. Desde allí puede seguirse una especie de progresión temática.
 
@@ -25,14 +29,16 @@ Este trabajo es al mismo tiempo un ejercicio de experimentación con formas de v
 - [[Prácticas letradas académicas online]]
 - [[Afectos (economías afectivas)]]
 - [[Arreglo desplazado]]
+- [[Ensamblaje de investigación]]
+- [[Intentos]]
 
-*Parte del código de migración de notas y la adaptación del formato textual fue asistida con Claude ai. 
+*Parte del código de migración de notas y la adaptación del formato textual fue asistida con Claude AI. 
 
 **Referencias** 
 
 ACSES. (2026). Mode of attendance in Australian higher education: Analysis of 2024 data (2026 update). _ACSES_. https://www.acses.edu.au/publication/mode-of-attendance-2026-update/
 
-Ahmed, S., & Olivares Mansuy, C. (2014). _La política cultural de las emociones_ (2a ed). Universidad Nacional Autónoma de México.
+Ahmed, S. (2014). _La política cultural de las emociones_ (2a ed). Universidad Nacional Autónoma de México.
 
 Aitken, G., Smith, K., Fawns, T., & Jones, D. (2022). Participatory alignment: A positive relationship between educators and students during online masters dissertation supervision. _Teaching in Higher Education_, _27_(6), 772-786. https://doi.org/10.1080/13562517.2020.1744129
 
