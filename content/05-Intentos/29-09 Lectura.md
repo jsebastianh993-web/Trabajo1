@@ -1,4 +1,6 @@
-![[Pasted image 20260930233002.png|649]]![[Pasted image 20260930233009.png]]![[Pasted image 20260930233017.png]]![[Pasted image 20260930233024.png]]
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DXbcPC6Vvqudd?utm_source=generator&si=295d661b46d442b5" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+![[Pasted image 20260930233002.png|700]]![[Pasted image 20260930233009.png]]![[Pasted image 20260930233017.png]]![[Pasted image 20260930233024.png]]
  
 	 No le cambié nada porque pues pensé que le servía tal como uno trabaja xd simplemente tome las fotos luego, pero pero sí creo que me hizo pensar más en qué fue lo que hice en el momento. Es decir, qué fue lo relevante que encontré para la tesis en eso que leí más que hacer solo la revisión y pasar a otra cosa (?)
 	Yo creo que no me sentí exactamente evaluada, pero de pronto sí expuesta de alguna forma jaja porque igual es algo que uno no le muestra a nadie (?)
