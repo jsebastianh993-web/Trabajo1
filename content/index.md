@@ -7,39 +7,25 @@ Sebastián Ortiz
 
 Leer y escribir aún son prácticas centrales en la educación superior. Justo cuando se habla del ["fin de la lectura"](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/) en las universidades es también cuando leemos y escribimos más textos que nunca antes. [La productividad académica se ha disparado](https://openai.com/index/research-acceleration-view-inside-openai/) en todos los campos disciplinares y, contra muchos pronósticos, la colaboración y generación de investigación con IA ha comenzado a producir [pruebas y demostraciones inabarcables](https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted?referrer=https%3A%2F%2Fwww.google.com%2F) (e incluso incomprensibles) para científicos humanos. Incluso, las revisiones de literatura publicadas cada vez abarcan más textos, incluyen más referencias y la comunidad científica ha comenzado [repensar la lógica misma de este género académico](https://link-springer-com.pucdechile.idm.oclc.org/article/10.1007/s11301-025-00513-9).
 
-En un contexto de educación superior que cada vez gira más hacia las modalidades online (UNESCO, 2026) ¿es posible seguir con enfoques de regulación ética obsesionados por los formatos de citación y la idea de autoría? ¿por qué seguimos limitando la indagación a la dimensión "social" de leer y escribir como si esta no fuera al mismo tiempo profundamente material, digital y afectiva?
+En un contexto de educación superior que cada vez gira más hacia las modalidades online (UNESCO, 2026) ¿es posible seguir con enfoques de regulación y ética obsesionados por los formatos de citación y la idea de autoría? ¿cómo leemos estudiantes y docentes en nuestra cotidianidad? ¿cómo reconocer que, a pesar de u aparente carácter mental e individual, leer y escribir son prácticas materiales y afectivas? 
 
-De estas preguntas surge [este espacio](explorar) en sus dos versiones. 
+Veo en el [giro afectivo](Afectos (economías afectivas)) una posibilidad para reconocer dimensiones materiales y corporales de la escritura y la lectura académica que tendemos a omitir. Más allá de su apariencia individual y mental, incluso en la distancia, leer y escribir son prácticas sociales y materiales. De esta intuición surge [este espacio](explorar) en sus dos versiones. 
 
-*V1*
+	V1
 
-Este espacio virtual comenzó reuniendo cómo se desplazan algunas de mis ideas de investigación sobre las [[Prácticas letradas académicas online]] al entrar en contacto con el concepto de [[Afectos (economías afectivas)]]. Este primer momento dio lugar a un [[Arreglo desplazado]] provisorio.
+En su V1, el espació reunió el desplazamiento de algunas de mis ideas de investigación sobre las [[Prácticas letradas académicas online]] al entrar en contacto con el concepto de [[Afectos (economías afectivas)]]. Este primer momento dio lugar a un [[Arreglo desplazado]] provisorio.
 
-*V2*
+	V2
 
-En esta segunda versión, busco producir y poner a prueba formas de producir datos. Es el resumen de un [[Ensamblaje de investigación]] sobre leer y escribir en la educación superior en el presente. Las experiencias aquí recogidas son [[Intentos]] por experimentar con formas de producir datos para mi investigación. Puntualmente, veo en el [giro afectivo](Afectos (economías afectivas)) una posibilidad para reconocer dimensiones materiales y corporales de la escritura y la lectura académica que tendemos a omitir. Más allá de su apariencia individual y mental, incluso en la distancia, leer y escribir son prácticas sociales y materiales. 
+En esta segunda versión, busco producir y poner a prueba formas de producir datos para mi investigación. Es el resumen de un [[Ensamblaje de investigación]] sobre leer y escribir en la educación superior posgradual en el presente. Las experiencias aquí recogidas son [[Intentos]] que producen datos. 
 
 **Navegar este sitio**
 
 El espacio está compuesto por notas, carpetas y un grafo cartográfico. En esta versión algunas notas tienen música que puede acompañar la lectura. Las entradas que organizan **los nodos** están enlazadas [al final de esta nota](#Explorar). La secuencia lineal de lectura podría comenzar por el arreglo inicial hasta y seguir el orden de las carpetas hasta el ensamblaje. 
 
-Sin embargo, este espacio busca proponer otro tipo de lectura. Esta potencia de la lectura fragmentaria quizá está conectada a formas de leer que usamos cotidianamente (para trabajar, estudiar, comunicarnos con nuestros seres queridos, interactuar en un Chat con IAG, entre otras). 
+Sin embargo, la estructura puede invitar a una [lectura fragmentaria](Posibles rutas) que (quizá) está conectada a formas de leer que usamos cotidianamente (para trabajar, estudiar, comunicarnos con nuestros seres queridos, interactuar en un Chat con IAG, entre otras). 
 
-**Comenzar una ruta**
-
-Es posible explorar el sitio de al menos cuatro formas:  
-
-1. El **grafo** ubicado a la derecha de la pantalla permite visualizar los enlaces entre las notas y mapear la relaciones conceptuales. Hacer click permite ver el mapa completo. También es posible dirigirse directamente a una nota seleccionándola, interactuar, acercarse a nodos o desplazarlos. 
-
-2. La **barra lateral** a la izquierda organiza las notas en carpetas. Cada carpeta concentra uno de los ejes de la cartografía. Desde allí puede seguirse una especie de progresión temática.
-
-3. Cada nota tiene **hipervínculos** que constituyen sus enlaces de salida. Es posible seguir una ruta similar a la navegación de una Wiki. 
-
-4. Finalmente, puede usarse la **búsqueda** para localizar una nota, un concepto o una palabra específica y, desde allí, continuar explorando.
-
-En esta versión algunas notas tienen música que puede escucharse para acompañar la lectura. 
-
-Este trabajo es al mismo tiempo un ejercicio de experimentación con formas de visualizar, pensar y comunicar mi investigación. Se espera que cada sección invite a un tipo de lectura distinto. 
+En esta versión algunas notas tienen música que puede reproducirse . 
 ## Explorar
 
 - [[Prácticas letradas académicas online]]
