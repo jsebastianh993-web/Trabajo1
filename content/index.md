@@ -5,11 +5,11 @@ Sebastián Ortiz
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/38PTaSqKcn1NKafQRdXSby?utm_source=generator&theme=0&si=47773423ea494bce" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Leer y escribir aún son prácticas centrales en la educación superior. [La productividad académica se ha disparado](https://arxiv.org/html/2412.07727v2) en todos los campos disciplinares y, contra muchos pronósticos, la colaboración y generación de investigación con Inteligencia Artificial Generativa (IAG) ha comenzado a producir [pruebas y demostraciones cada vez más complejas](https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted?referrer=https%3A%2F%2Fwww.google.com%2F) (incluso, en ocasiones, incomprensibles para científicos humanos). Las revisiones de literatura científica publicadas cada vez abarcan más textos, incluyen más referencias y la comunidad científica ha comenzado a [repensar la lógica misma de este género académico](https://link-springer-com.pucdechile.idm.oclc.org/article/10.1007/s11301-025-00513-9). Con todo, pese a este crecimiento, también se ha señalado que el creciente uso de IAG y los índices de lectura de estudiantes pueden conducir hacia ["el fin de la lectura"](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/) en las universidades. 
+Leer y escribir aún son prácticas centrales en la educación superior. [La productividad académica se ha disparado](https://arxiv.org/html/2412.07727v2) en todos los campos disciplinares y, contra muchos pronósticos, la colaboración y generación de investigación con Inteligencia Artificial Generativa (IAG) ha comenzado a producir [pruebas y demostraciones cada vez más complejas](https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted?referrer=https%3A%2F%2Fwww.google.com%2F) (incluso, en ocasiones, incomprensibles para científicos humanos). Las revisiones de literatura científica publicadas cada vez abarcan más textos, incluyen más referencias y la comunidad académica ha comenzado a [repensar la lógica misma de este género académico](https://link-springer-com.pucdechile.idm.oclc.org/article/10.1007/s11301-025-00513-9). Con todo, pese a este crecimiento, también se ha señalado que el creciente uso de IAG y los índices de lectura de estudiantes pueden conducir hacia ["el fin de la lectura"](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/) en las universidades. 
 
-La educación superior gira más cada vez más hacia las modalidades online (UNESCO, 2026) y las formas de escribir y leer se han transformado en muchos contextos (Zavala, 2026). En este contexto, me pregunto: ¿es posible seguir con enfoques de regulación y ética obsesionados por los formatos de citación y la idea de autoría clásica? ¿los estudiantes y docentes estamos leyendo mal? ¿qué relaciones existen entre los dispositivos, los objetos, las herramientas digitales, los contextos sociales y nuestras formas de leer y escribir? 
+La educación superior gira más cada vez más hacia las modalidades online (UNESCO, 2026) y las formas de escribir y leer se han transformado en muchos contextos (Zavala, 2026). En este marco, me pregunto: ¿es posible seguir con enfoques de regulación y ética obsesionados por los formatos de citación y la idea de autoría moderna? ¿qué relaciones existen entre los dispositivos, los objetos, las herramientas digitales, los contextos sociales y nuestras formas de leer y escribir? ¿los estudiantes y docentes estamos leyendo mal? 
 
-Veo en el [giro afectivo](Afectos (economías afectivas)) una posibilidad para reconocer dimensiones materiales y corporales de la escritura y la lectura académica que tendemos a omitir. Más allá de su apariencia individual y mental, incluso en la distancia, leer y escribir son prácticas sociales y materiales. Actualmente me pregunto ¿Cómo se caracterizan afectivamente las prácticas letradas académicas de estudiantes de magíster?
+Veo en el [giro afectivo](Afectos (economías afectivas)) una posibilidad para reconocer dimensiones materiales y corporales de la escritura y la lectura académica que tendemos a omitir. Más allá de su aparente carácter individual y mental, incluso en la distancia y en soledad, leer y escribir son prácticas sociales y materiales. Actualmente me pregunto ¿Cómo se caracterizan afectivamente las prácticas letradas académicas de estudiantes de magíster?
 
 De esta intuición surge [este espacio](#Explorar) en sus dos versiones. 
 
@@ -21,13 +21,13 @@ Sin embargo, la estructura busca hacer posible una [lectura fragmentaria](Posibl
 
 En esta versión algunas notas tienen música que puede reproducirse directamente en el sitio. 
 
-## Explorar
+## Nodos
 
-- [[Prácticas letradas académicas online]]
-- [[Afectos (economías afectivas)]]
-- [[Arreglo desplazado]]
-- [[Ensamblaje de investigación]]
-- [[Intentos]]
+- [[Prácticas letradas académicas online]]: Arreglo conceptual y proyectual de investigación sobre prácticas letradas académicas de estudiantes a distancia con un enfoque cualitativo.
+- [[Afectos (economías afectivas)]]: Concepto que reorganiza la propuesta inicial. 
+- [[Arreglo desplazado]]: Desplazamiento conceptual del arreglo inicial. 
+- [[Ensamblaje de investigación]]: Configuración de un ensamblaje, de formas de producir/analizar/instar/articular datos
+- [[Intentos]]: Registro de algunos intentos. 
 
 *v1*
 
@@ -35,7 +35,7 @@ En su V1, el espacio reunió el desplazamiento de algunas de mis ideas de invest
 
 *v2*
 
-En esta segunda versión, busco producir y poner a prueba formas de producir datos para mi investigación. Es el resumen de un [[Ensamblaje de investigación]] sobre leer y escribir en la educación superior posgradual en el presente. Las experiencias aquí recogidas son [[Intentos]] que producen datos. 
+En esta segunda versión, busco producir y poner a prueba formas de producir datos para mi investigación. Es el resumen de un [[Ensamblaje de investigación]] sobre leer y escribir en la educación superior posgradual en el presente. Recojo también algunos [[Intentos]] que producen datos para mi investigación. 
 
 *El código de migración de notas desde la aplicación Obsidian hacia el repositorio git en Quartz que permite esta visualización fue asistido con Claude AI.*
 
