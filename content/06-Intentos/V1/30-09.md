@@ -1,5 +1,6 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3bMc9oRaUWnojCrYTUXXcQ?utm_source=generator&theme=0&si=ae2e801154274adb" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+
 ![[Pasted image 20260930233108.png]]![[Pasted image 20260930233116.png]]![[Pasted image 20260930233124.png]]
 
 https://open.spotify.com/intl-es/artist/2Ex4vjQ6mSh5woTlDWto6d?si=QgkLW9OoQISzcyC1RYS47A

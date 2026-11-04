@@ -8,7 +8,7 @@ Hay una vocación de capturar lo específico y cerrarlo.
 
 ¿Quién respondió 'no entendió la consigna'? o dio poca información 
 
-En el [[29-09 Lectura]] pensé que podría tener más información. Fue una sesión de lectura e imaginaba datos más complejos. Por ejemplo, notas, apuntes. 
+En el [[29-09]] pensé que podría tener más información. Fue una sesión de lectura e imaginaba datos más complejos. Por ejemplo, notas, apuntes. 
 
 *Compartir lo que les parezca relevante para ese momento aunque no tenga que ver directamente con su tesis. Pueden tomar cuantos sean necesarios.* 
 
