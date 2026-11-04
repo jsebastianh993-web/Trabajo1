@@ -5,25 +5,23 @@ Sebastián Ortiz
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/38PTaSqKcn1NKafQRdXSby?utm_source=generator&theme=0&si=47773423ea494bce" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Leer y escribir aún son prácticas centrales en la educación superior. [La productividad académica se ha disparado](https://arxiv.org/html/2412.07727v2) en todos los campos disciplinares y, contra muchos pronósticos, la colaboración y generación de investigación con Inteligencia Artificial Generativa (IAG) ha comenzado a producir [pruebas y demostraciones cada vez más complejas](https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted?referrer=https%3A%2F%2Fwww.google.com%2F) (incluso, en ocasiones, incomprensibles para científicos humanos). Las revisiones de literatura científica publicadas cada vez abarcan más textos, incluyen más referencias y la comunidad académica ha comenzado a [repensar la lógica misma de este género académico](https://link-springer-com.pucdechile.idm.oclc.org/article/10.1007/s11301-025-00513-9). Con todo, pese a este crecimiento, también se ha señalado que el creciente uso de IAG y los índices de lectura de estudiantes pueden conducir hacia ["el fin de la lectura"](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/) en las universidades. 
+Leer y escribir aún son prácticas centrales en la educación superior. [La productividad académica se ha disparado](https://arxiv.org/html/2412.07727v2) en todos los campos disciplinares y la colaboración y generación de investigación con Inteligencia Artificial Generativa (IAG) ha comenzado a producir [pruebas y demostraciones cada vez más complejas](https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted?referrer=https%3A%2F%2Fwww.google.com%2F) (incluso, en ocasiones, incomprensibles para científicos humanos). Las revisiones de literatura científica publicadas cada vez abarcan más textos, incluyen más referencias y la comunidad académica ha comenzado a [repensar la lógica misma de este género académico](https://link-springer-com.pucdechile.idm.oclc.org/article/10.1007/s11301-025-00513-9). Con todo, pese a este crecimiento, también se ha señalado que el creciente uso de IAG y los índices de lectura de estudiantes pueden conducir hacia ["el fin de la lectura"](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/) en las universidades. 
 
-La educación superior gira más cada vez más hacia las modalidades online (UNESCO, 2026) y las formas de escribir y leer se han transformado en muchos contextos (Zavala, 2026). En este marco, me pregunto: ¿es posible seguir con enfoques de regulación y ética obsesionados por los formatos de citación y la idea de autoría moderna? ¿qué relaciones existen entre los dispositivos, los objetos, las herramientas digitales, los contextos sociales y nuestras formas de leer y escribir? ¿los estudiantes y docentes estamos leyendo mal? 
+La educación superior gira más cada vez más hacia las modalidades online y formas de digitalización(UNESCO, 2026) mientras las formas de escribir y leer se se están transformando marcadamente en los contextos a académicos (Zavala, 2026). Pese a esto, en el campo de la investigación sobre los Nuevos Estudios de Literacidad (NEL), aún son pocas la investigaciónes que aborden de manera crítica este contexto. En este marco, me pregunto: ¿qué relaciones existen entre los dispositivos, los objetos, las herramientas digitales, los contextos sociales y nuestras formas de leer y escribir? ¿los estudiantes y docentes estamos leyendo mal? ¿cómo podemos indagar sobre las formas en que escribimos y leemos? 
 
-Veo en el [giro afectivo](Afectos (economías afectivas)) una posibilidad para reconocer dimensiones materiales y corporales de la escritura y la lectura académica que tendemos a omitir. Más allá de su aparente carácter individual y mental, incluso en la distancia y en soledad, leer y escribir son prácticas sociales y materiales. Actualmente me pregunto ¿Cómo se caracterizan afectivamente las prácticas letradas académicas de estudiantes de magíster?
+De estas interrogantes surge [este espacio](#Explorar) en sus dos versiones. 
 
-De esta intuición surge [este espacio](#Explorar) en sus dos versiones. 
+Veo en el [giro afectivo](Afectos (economías afectivas)) una posibilidad para reconocer dimensiones materiales y corporales de la escritura y la lectura académica que tendemos a omitir en los estudios sobre literacidad. Más allá de su aparente carácter individual y mental, incluso en la distancia y en soledad, leer y escribir son prácticas sociales (Street, 1999) y materiales (Boyle, 2016). Actualmente me pregunto ¿Cómo se caracterizan afectivamente las prácticas letradas académicas de estudiantes de magíster?
 
 **Navegar este sitio**
 
-El espacio está compuesto por notas, carpetas y un grafo cartográfico. En esta versión algunas notas tienen música que puede acompañar la lectura. Las entradas que organizan **los nodos** están enlazadas [al final de esta nota](#Explorar). La secuencia lineal de lectura podría comenzar por el arreglo inicial y seguir el orden de las carpetas hasta el ensamblaje. 
+El espacio está compuesto por notas, carpetas y un grafo cartográfico. En esta versión algunas notas tienen música que puede reproducirse directamente desde el sitio. Las entradas que organizan **los nodos** están enlazados [al final de esta nota](#Explorar). La secuencia lineal de lectura podría comenzar por el arreglo inicial y seguir el orden de las carpetas (01-06) hasta el ensamblaje. 
 
-Sin embargo, la estructura busca hacer posible una [lectura fragmentaria](Posibles rutas) que (quizá) está conectada a formas de leer que usamos cotidianamente (para trabajar, estudiar, comunicarnos con nuestros seres queridos, interactuar en un Chat con IAG, entre otras). 
-
-En esta versión algunas notas tienen música que puede reproducirse directamente en el sitio. 
+Sin embargo, la estructura busca hacer posible una [lectura fragmentaria](Posibles rutas) que (quizá) está conectada a formas de leer que usamos cotidianamente (para trabajar, estudiar, comunicarnos, interactuar en un Chat con IAG, entre otras). 
 
 ## Nodos
 
-- [[Prácticas letradas académicas online]]: Arreglo conceptual y proyectual de investigación sobre prácticas letradas académicas de estudiantes a distancia con un enfoque cualitativo.
+- [[Prácticas letradas académicas online]]: Arreglo conceptual y proyectual de investigación sobre prácticas letradas académicas de estudiantes a distancia con un enfoque cualitativo. Fue el punto de partida de este ejercicio.
 - [[Afectos (economías afectivas)]]: Concepto que reorganiza la propuesta inicial. 
 - [[Arreglo desplazado]]: Desplazamiento conceptual del arreglo inicial. 
 - [[Ensamblaje de investigación]]: Configuración de un ensamblaje, de formas de producir/analizar/instar/articular datos
@@ -57,6 +55,8 @@ Bearman, M., Ajjawi, R., & O’Donnell, M. (2024). Life-on-campus or my-time-and
 
 Berlant, L. G. (2011). _Cruel optimism_. Duke University Press.
 
+Boyle, C. (2016). Writing and Rhetoric and/as Posthuman Practice. _College English_, _78_(6), 532-554.
+
 Braidotti, R. (2018). Affirmative Ethics, Posthuman Subjectivity, and Intimate Scholarship: A Conversation with Rosi Braidotti. En _Decentering the Researcher in Intimate Scholarship: Critical Posthuman Methodological Perspectives in Education_ (Vol. 31, p. 0). Emerald Publishing Limited. https://doi.org/10.1108/S1479-368720180000031014
 
 Braidotti, R., & Hlavajova, M. (2018). _Posthuman glossary_. Bloomsbury academic.
@@ -83,7 +83,7 @@ HESA. (2026). _Higher Education Student Statistics: UK, 2024/25 | HESA_. HESA. h
 
 Ivanič, R. (2004). Discourses of Writing and Learning to Write. _Language and Education_, _18_(3), 220-245. https://doi.org/10.1080/09500780408666877
 
-Jusslin, S., & Hilli, C. (2024). Supporting bachelor’s and master’s students’ thesis writing: A rhizoanalysis of academic writing workshops in hybrid learning spaces. _Studies in Higher Education_, _49_(4), 712-729. Scopus. https://doi.org/10.1080/03075079.2023.2250809
+Jusslin, S., & Hilli, C. (2024). Supporting bachelor’s and master’s students’ thesis writing: A rhizoanalysis of academic writing workshops in hybrid learning spaces. _Studies in Higher Education_, _49_(4), 712-729. (176277885). https://doi.org/10.1080/03075079.2023.2250809
 
 Lave, J., & Wenger-Trayner, É. (2020). _Situated learning: Legitimate peripheral participation_ (31st printing). Cambridge Univ. Press.
 
@@ -93,7 +93,7 @@ Lillis, T. (2001). _Student writing: Access, regulation, desire_. Routledge.
 
 Lillis, T., & Scott, M. (2007). Defining academic literacies research: Issues of epistemology, ideology and strategy. _Journal of Applied Linguistics and Professional Practice_, 5-32. https://doi.org/10.1558/japl.v4i1.5
 
-Livholts, M., & Tamboukou, M. (s. f.). _Discourse and Narrative Methods_.
+Livholts, M., & Tamboukou, M. (2015). _Discourse and Narrative Methods_.
 
 Massumi, B. (1995). The Autonomy of Affect. _Cultural Critique_, (31), 83-109. https://doi.org/10.2307/1354446
 
@@ -115,4 +115,4 @@ Tuck, E. (2009). Suspending Damage: A Letter to Communities. _Harvard Educationa
 
 UNESCO. (2026). _Transforming higher education: Global collaboration on visioning and action_. UNESCO. https://doi.org/10.54675/SNJW1822
 
-Yin, R. K. (2007). _Case study research: Design and methods_ (3. ed., [Nachdr.]). Sage.
+Yin, R. K. (2003). _Case study research: Design and methods_ (3rd ed). Sage Publications.

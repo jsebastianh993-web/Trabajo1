@@ -12,7 +12,7 @@ Mi [[Prácticas letradas académicas online|objetivo inicial]] inicial asume:
 6. La escritura es principalmente humana/social y alfabética.
 7. Un año es suficiente para saber algo sobre las negociaciones identitarias.
 
-Al atravesar [[Afectos (economías afectivas)]], me desplazo y se reconstruye mi maqueta. Cada reformulación de mi proyecto es una nueva maqueta donde colapso selectivamente:
+Al atravesar [[Afectos (economías afectivas)]], me desplazo y se reconstruye proyecto. Cada reformulación es una nueva maqueta donde colapso selectivamente:
 
 1. Es necesario desestabilizar la díada escritura académica/negociaciones identitarias. Para esto, pienso explorar la potencialidad de las [[Prácticas de literacidad]] (no necesariamente escritura, no necesariamente literacidad alfabética). Estas prácticas son afectivas, reorganizan cuerpos, flujos, fuerzas, deseos, discursos y poderes. 
 2. Los estudiantes están en ensamblajes productivos en contacto con [[Cuerpos]] [[humanos]] y [[no-humanos]] (Fox & Alldred, 2015). Así, las [[Prácticas de literacidad]] se dan en contactos afectivos con [[pantallas]], [[teclados]], [[agentes de IA]], [[literatura]], [[espacios físicos]], [[sillas]], [[cámaras]], [[identidades]], [[trabajos]], [[familias]], [[cafés]] y [[luces artificales]]. Hago parte de esto y buscar formas de producir datos que respeten la complejidad de estos ensamblajes. Este ensamblaje requiere de lo posthumano (Braidotti, 2015).
@@ -32,7 +32,7 @@ Las maquetas están hechas de articulaciones de cartón, palitos y pegamento fr�
 
 En los caracteres que escribo estoy frente a otros ojos, que inspeccionan y leen algo sobre mí. El problema de investigación,  la relevancia de lo que pienso hacer, la escritura.
 
-8. Los [[artículos]] del compendio serán parte de los resultados de la investigación. Probablemente sean en inglés. Sin embargo, la investigación tiene que dejar resultados en español, resultados que mis participantes puedan ver. Es necesario producir desde [[la narración y las artes]], desde las posibilidades de lo [[digital]]. Organizar y producir afectos también es la vocación de una investigación.
+8. Los [[artículos]] del compendio serán parte de los resultados de la investigación. Probablemente sean en inglés. Sin embargo, la investigación tiene que dejar resultados en español de formas que mis participantes puedan ver. Es necesario producir desde [[la narración y las artes]], desde las posibilidades de lo [[digital]]. Organizar y producir afectos también es la vocación de una investigación.
 9. El financiamiento es posibilidad material. Abre y reduce capacidades. Permite y condiciona. [[ANID 1]] y la [[Pontificia Universidad Católica de Chile (PUC) 1]] siguen y ojalá sigan estando como posibilidad en este ensamblaje. 
 
 Mi propuesta debería volverse una investigación doctoral, las maquetas deberían ser una construcción y yo debería volverme algo más. De todas formas, antes es necesario llegar a tiempo el día de entrega de cada maqueta.
