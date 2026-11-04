@@ -34,7 +34,7 @@ En esta versión algunas notas tienen música que puede reproducirse .
 - [[Ensamblaje de investigación]]
 - [[Intentos]]
 
-*Parte del código de migración de notas y la adaptación del formato textual .md fue asistida con Claude AI.*
+*El código de migración de notas desde Obsidian a un repositorio git en Quartz fue asistido con Claude AI.*
 
 **Referencias** 
 
