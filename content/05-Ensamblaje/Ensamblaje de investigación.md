@@ -1,7 +1,8 @@
 #Ensamblaje
 
-Este texto responde a interacciones y relacione
+A finales de septiembre comencé a registrar un pequeño experimento. 
 
+La idea es ver cómo 
 
 QUÉ ES UNA MÁQUINA DE PRODUCCIÓN DE DATOS
 Entendemos por máquina de producción de datos un arreglo de elementos
