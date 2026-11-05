@@ -13,7 +13,7 @@ De estas interrogantes surge [este espacio](#Nodos) en sus dos versiones.
 
 ## Pregunta de indagación
 
-Veo en el [giro afectivo](Afectos (economías afectivas)) una posibilidad para reconocer dimensiones materiales, corporales y no-humanas de la escritura y la lectura académica que tendemos a omitir en los estudios sobre literacidad. Más allá de su aparente carácter individual y mental, incluso en la distancia y en soledad, leer y escribir son prácticas sociales (Street, 1999) y materiales (Boyle, 2016). Actualmente me pregunto ¿Cómo se caracterizan afectivamente las prácticas letradas académicas de estudiantes de magíster?
+Veo en el [giro afectivo](Afectos (economías afectivas)) una posibilidad para reconocer dimensiones materiales, corporales y no-humanas de la escritura y la lectura académica que tendemos a omitir en los estudios sobre literacidad. Más allá de su aparente carácter individual y mental, incluso en la distancia y en soledad, leer y escribir son prácticas sociales (Street, 1999) y materiales (Boyle, 2016). Actualmente me pregunto ¿Cómo se caracterizan afectivamente las prácticas letradas académicas de estudiantes de educación superior online?
 
 ## **Navegar este sitio**
 
