@@ -1,4 +1,4 @@
-**Referencias** 
+
 
 ACSES. (2026). Mode of attendance in Australian higher education: Analysis of 2024 data (2026 update). _ACSES_. https://www.acses.edu.au/publication/mode-of-attendance-2026-update/
 

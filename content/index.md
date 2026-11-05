@@ -27,7 +27,9 @@ La secuencia lineal de lectura podría comenzar por el arreglo inicial y seguir 
 - [[Afectos (economías afectivas)]]: Concepto que reorganiza la propuesta inicial. 
 - [[Arreglo desplazado]]: Desplazamiento conceptual del arreglo inicial. 
 - [[Ensamblaje de investigación]]: Configuración de un ensamblaje, de formas de producir/analizar/instar/articular datos
-- [[Intentos]]: Registro de algunos intentos. 
+- [[Intentos]]: Registro de algunos intentos.
+
+## Versiones
 
 *v1*
 
