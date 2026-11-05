@@ -1,7 +1,11 @@
 #Ensamblaje
 
-A finales de septiembre comencé a registrar un pequeño experimento. 
+A finales de septiembre de 2026 comencé a registrar un proceso de experimentación inspirado en [metodologías narrativas](Métodos narrativos) y [postcualitativas](Indagación postcualitativa). 
 
+Buscaba dar un paso que me permitiera conectar 
+
+
+[[Intentos]]
 La idea es ver cómo 
 
 QUÉ ES UNA MÁQUINA DE PRODUCCIÓN DE DATOS

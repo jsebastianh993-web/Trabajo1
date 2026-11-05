@@ -41,6 +41,8 @@ Mi propuesta debería volverse una investigación doctoral, las maquetas deberí
 
 En su estado actual, este es un arreglo abierto, heterogéneo y mucho menos explorado por mi parte que el anterior. 
 
+Este arreglo desplazado es el germen del [[Ensamblaje de investigación]].
+
 ## Ver también
 
 - [[Cuerpos]]
