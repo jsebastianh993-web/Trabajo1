@@ -1,2 +1,2 @@
 #arreglo-desplazado 
-[[Afectos]], [[Cuerpos]]. 
+[[Afecto]], [[Cuerpos]]. 

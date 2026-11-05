@@ -15,7 +15,7 @@ Estas interrogantes fueron el punto de partida de [este espacio](#Nodos) en sus 
 
 ## Pregunta de indagación
 
-El [giro afectivo](Afectos (economías afectivas)) ofrece una posibilidad para reconocer dimensiones materiales, corporales y no-humanas de la escritura y la lectura académica que tendemos a omitir en los estudios sobre literacidad. Más allá de su aparente carácter individual y mental, incluso en la distancia y en soledad, leer y escribir son prácticas sociales (Street, 1999) y materiales (Boyle, 2016). Actualmente me pregunto ¿Cómo se caracterizan afectivamente las prácticas letradas académicas de estudiantes de educación superior online?
+El [giro afectivo](Afectos) ofrece una posibilidad para reconocer dimensiones materiales, corporales y no-humanas de la escritura y la lectura académica que tendemos a omitir en los estudios sobre literacidad. Más allá de su aparente carácter individual y mental, incluso en la distancia y en soledad, leer y escribir son prácticas sociales (Street, 1999) y materiales (Boyle, 2016). Actualmente me pregunto ¿Cómo se caracterizan afectivamente las prácticas letradas académicas de estudiantes de educación superior online?
 
 ## **Navegar este sitio**
 
@@ -26,7 +26,7 @@ Una lectura lineal podría comenzar por el arreglo inicial y seguir el orden de 
 ## Nodos
 
 - [[Prácticas letradas académicas online]]: Arreglo conceptual y proyectual de investigación sobre prácticas letradas académicas de estudiantes a distancia con un enfoque cualitativo. Fue el punto de partida de este ejercicio.
-- [[Afectos (economías afectivas)]]: Concepto que reorganiza la propuesta inicial. 
+- [[Afectos]]: Concepto que reorganiza la propuesta inicial. 
 - [[Arreglo desplazado]]: Desplazamiento conceptual del arreglo inicial. 
 - [[Ensamblaje de investigación]]: Configuración de un ensamblaje de investigación. Reúne las posibles formas de producir/analizar/instar/articular datos.
 - [[Intentos]]: Registros de intentos.
@@ -35,7 +35,7 @@ Una lectura lineal podría comenzar por el arreglo inicial y seguir el orden de 
 
 *v1*
 
-En su V1, el espacio reunió el desplazamiento de algunas de mis ideas de investigación sobre las [[Prácticas letradas académicas online]] al entrar en contacto con el concepto de [[Afectos (economías afectivas)]]. Este primer momento dio lugar a un [[Arreglo desplazado]] provisorio.
+En su V1, el espacio reunió el desplazamiento de algunas de mis ideas de investigación sobre las [[Prácticas letradas académicas online]] al entrar en contacto con el concepto de [[Afectos]]. Este primer momento dio lugar a un [[Arreglo desplazado]] provisorio.
 
 *v2*
 
