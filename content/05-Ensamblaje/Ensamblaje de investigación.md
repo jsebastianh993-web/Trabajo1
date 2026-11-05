@@ -2,7 +2,7 @@
 
 A finales de septiembre de 2026 comencé a registrar un proceso de experimentación inspirado en [metodologías narrativas](Métodos narrativos) y [postcualitativas](Indagación postcualitativa). 
 
-Buscaba dar un paso que me permitiera conectar 
+Buscaba dar un paso que me permitiera reconocer elementos materiales de las prácticas de literacidad de estudiantes en . 
 
 
 [[Intentos]]

@@ -5,7 +5,7 @@ Sebastián Ortiz
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0fOjUafaAhJV16oRBgCtz7?utm_source=generator&theme=0&si=5eec70e760de48e1" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Leer y escribir aún son prácticas centrales en la educación superior. [La productividad académica se ha disparado](https://arxiv.org/html/2412.07727v2) en todos los campos disciplinares y la colaboración y generación de investigación con Inteligencia Artificial Generativa (IAG) ha comenzado a producir [pruebas y demostraciones cada vez más complejas](https://terrytao.wordpress.com/2026/09/15/the-technical-debt-of-ai-generated-mathematics/) (incluso, en ocasiones, incomprensibles para científicos humanos). Las revisiones de literatura científica publicadas cada vez abarcan más textos, incluyen más referencias y la comunidad académica ha comenzado a [repensar la lógica misma de este género académico](https://doi.org/10.1007/s11301-025-00513-9). 
+Leer y escribir aún son prácticas centrales en la educación superior. [La productividad académica se ha disparado](https://arxiv.org/html/2412.07727v2) en todos los campos disciplinares y la colaboración y generación de investigación con Inteligencia Artificial Generativa (IAG) ha comenzado a producir [pruebas y demostraciones cada vez más complejas](https://terrytao.wordpress.com/2026/09/15/the-technical-debt-of-ai-generated-mathematics/) (incluso, en ocasiones, incomprensibles para científicos humanos). Las revisiones de literatura científica publicadas cada vez abarcan más textos, incluyen más referencias y la comunidad académica ha comenzado a [repensar la lógica misma de este género discursivo](https://doi.org/10.1007/s11301-025-00513-9). 
 
 Se ha llegado a formular, incluso, que el creciente uso de IAG y los índices de lectura de estudiantes pueden significar el ["el fin de la lectura"](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/) en las universidades. Aunque la evidencia vuelve neceasrio matizar esta afirmación, es inevitable reconocer ciertos desplazamientos. La educación superior gira cada vez más hacia las modalidades online y otras formas de digitalización altamente influenciadas por el desarrollo de la IAG (UNESCO, 2026). En tanto, las prácticas de lectura y escritura cotidianas se están transformando marcadamente en los contextos a académicos (Zavala, 2026). 
 
@@ -15,7 +15,9 @@ Estas interrogantes fueron el punto de partida de [este espacio](#Nodos).
 
 ## Pregunta de indagación
 
-El [giro afectivo](Afectos) ofrece una posibilidad para reconocer dimensiones materiales, corporales y no-humanas de la escritura y la lectura académica que tendemos a omitir en los estudios sobre literacidad. Más allá de su aparente carácter individual y mental, incluso en la distancia y en soledad, leer y escribir son prácticas sociales (Street, 1999) y materiales (Boyle, 2016). Actualmente me pregunto ¿Cómo se caracterizan afectivamente las prácticas letradas académicas de estudiantes de educación superior online?
+El [giro afectivo](Afectos) ofrece una posibilidad para reconocer dimensiones materiales, corporales y no-humanas de la escritura y la lectura académica que tendemos a omitir en los estudios sobre literacidad. Más allá de su aparente carácter individual y mental, incluso en la distancia y en soledad, leer y escribir son prácticas sociales (Street, 1999) y materiales (Boyle, 2016). Actualmente me pregunto:
+
+*¿Cómo se caracterizan afectivamente las prácticas letradas académicas de estudiantes de educación superior online?*
 
 ## **Navegar este sitio**
 
