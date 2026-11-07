@@ -2,16 +2,16 @@
 
 Siguiendo lo planteado en mi [[Arreglo desplazado]], en este ejercicio  busco diseñar un ensamblaje sobre  literacidad académica que produzca datos de dimensiones materiales, afectivas y sociales de la lectura y la escritura académica. 
 
-Entiendo un ensamblaje como una maquina productiva que junta elementos afectivamente para hacer o producir algo (Fox & Alldred, 2015). Un ensamblaje es un ejercicio productivo y no meramente observacional, pues produce aquello que estudia generar conexiones materiales(Jackson & Mazzei, 2022).
+Entiendo un ensamblaje como una maquina productiva que junta elementos afectivamente para hacer o producir algo (Fox & Alldred, 2015). Un ensamblaje es un ejercicio productivo y no meramente observacional, pues produce aquello que estudia al establecer conexiones materiales entre cuerpos (Jackson & Mazzei, 2022).
 
 Para mi ensamblaje, consideré necesario producir información de formas que incomoden las tres técnicas tradicionales de los estudios sobre literacidad: 1) El análisis de textos, 2) Las entrevistas (sean basadas en textos o no) y 3) la observación participante (Lillis, 2007). 
 
 Las entrevistas basadas en textos se piensan como opciones complementarias al análisis textual que superen el "sesgo" de pensar que los principales aspectos de la escritura puede reconocerse en la superficie textual. Sin embargo, en este movimiento se formulan como un acercamiento más cercano a las formas de leer y escribir de los estudiantes (Lillis, 2001). 
 ## Preguntas 
 
-*¿Cómo se producen afectiva y materialmente las [prácticas de literacidad académica](Prácticas de literacidad) de estudiantes de magíster (online/presencial)?*
+*¿Cómo se producen afectiva y materialmente las [prácticas de literacidad académica](Prácticas de literacidad) de [estudiantes de magíster](Estudiantes de maestría) (online/presencial)?*
 
-Esta pregunta general se desagrega en preguntas específicas que dan partida a la exploración desarollada en este ejercicio.
+Esta pregunta general se desagrega en preguntas específicas que dan partida a la exploración desarrollada en este ejercicio.
 
 **Subpreguntas de este ejercicio**
 
