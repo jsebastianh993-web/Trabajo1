@@ -1,20 +1,32 @@
 #Ensamblaje
 
+Siguiendo lo planteado en mi [[Arreglo desplazado]], en este ejercicio  busco diseñar un ensamblaje sobre  literacidad académica que produzca datos de dimensiones materiales, afectivas y sociales de la lectura y la escritura académica. 
 
+Entiendo un ensamblaje como una maquina productiva que junta elementos afectivamente para hacer o producir algo (Fox & Alldred, 2015). Un ensamblaje es un ejercicio productivo y no meramente observacional, pues produce aquello que estudia generar conexiones materiales(Jackson & Mazzei, 2022).
+
+Para mi ensamblaje, consideré necesario producir información de formas que incomoden las tres técnicas tradicionales de los estudios sobre literacidad: 1) El análisis de textos, 2) Las entrevistas (sean basadas en textos o no) y 3) la observación participante (Lillis, 2007). 
+
+Las entrevistas basadas en textos se piensan como opciones complementarias al análisis textual que superen el "sesgo" de pensar que los principales aspectos de la escritura puede reconocerse en la superficie textual. Sin embargo, en este movimiento se formulan como un acercamiento más cercano a las formas de leer y escribir de los estudiantes (Lillis, 2001). 
+## Preguntas 
+
+*¿Cómo se producen afectiva y materialmente las [prácticas de literacidad académica](Prácticas de literacidad) de estudiantes de magíster (online/presencial)?*
+
+Esta pregunta general se desagrega en preguntas específicas que dan partida a la exploración desarollada en este ejercicio.
+
+**Subpreguntas de este ejercicio**
+
+*¿Que afectos y [materialidades](Materialidad.md) circulan en sesiones de escritura académica cuando se registran de forma multimodal?*
+
+*¿Cómo se producen [cuerpos](Cuerpo.md) al leer y escribir en sesiones de lectura y escritura académica ?*
+
+## ¿Qué busco producir? 
+
+
+
+## ¿Dónde estoy yo?
 
 
 A finales de septiembre de 2026 comencé a registrar [un proceso de experimentación](Intentos) inspirado en [metodologías narrativas](Métodos narrativos) y [postcualitativas](Indagación postcualitativa). Este ejercicio tenía el objetivo de repensar formas de hacer investigación.  El ejercicio buscaba reconocer elementos materiales de las prácticas de literacidad de estudiantes de magíster en Colombia. Actualmente, este proceso está dando forma a un ensamblaje de investigación. 
-
-## Consignas
-
-## Materiales y soporte
-## Espacio/tiempo
-
-## Registro
-
-## ¿Quiénes?
-
-
 
 [[Intentos]]
 La idea es ver cómo 

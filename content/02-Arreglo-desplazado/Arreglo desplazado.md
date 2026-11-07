@@ -1,5 +1,7 @@
 #arreglo-desplazado 
 
+*V2*
+
 Este arreglo es apenas el bosquejo de una serie de relaciones por explorar y se organiza por distanciamientos, desplazamientos, colapsos y recirculaciones afectivas. 
 
 Mi [[Prácticas letradas académicas online|objetivo inicial]] inicial asume:
