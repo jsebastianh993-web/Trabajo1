@@ -15,14 +15,16 @@ Esta pregunta general se desagrega en preguntas específicas que dan partida a l
 
 **Subpreguntas de este ejercicio**
 
-*¿Que afectos y [materialidades](Materialidad.md) circulan en sesiones de escritura académica cuando se registran de forma multimodal?*
+*¿Que afectos y [materialidades](Materialidad.md) circulan en eventos de literacidad académica cuando se registran de forma multimodal?*
 
-*¿Cómo se producen [cuerpos](Cuerpo.md) al leer y escribir en sesiones de lectura y escritura académica ?*
-
+*¿Cómo se producen [cuerpos](Cuerpo.md) en eventos de lectura y escritura académica ?*
 ## ¿Qué busco producir? 
 
+1. *Sesiones de lectura y escritura, en las que estudiantes de maestría produzcan registros audiovisuales sobre las formas en que leen y escriben:* Los Nuevos Estudios de Literacidad (NLS) han formulado que hay [eventos de literacidad](Eventos de literacidad) en los que los sujetos leen y escriben en situaciones/momentos/espacios concretos (Barton & Hamilton, 2004). Para los NLS estos eventos pueden verse y permiten "inferir" las prácticas letradas que no son "observables". En mi propuesta no espero ver eventos letrados, espero producirlos. Además, espero complejizar el dualismo evento/práctica. Para esto, en ensamblaje espera producir sesiones de lectura y escritura concretas. 
 
+2. *Narrativas no-lineales sobre prácticas de literacidad*: Considerar dimensiones materiales en el proceso de producción de narrativas y no reducirlas a enfoques socioconstructivistas o hermenéuticos ofrece posibilidades para cuestionar la centralidad del sujeto liberal en la configuración de narrativas (Livholts & Tamboukou, 2015). Con esto espero aumentar las capacidades de este ensamblaje de conectar con prácticas, la producción de cuerpos y la inclusión/exclusión de elementos materiales, espacios y conexiones (Jørgensen & Strand, 2014). Las narrativas que busco producir no son lineales ni representan  a sujetos individuales (Mazzei, 2013)
 
+3. *Cartografías afectivas:* 
 ## ¿Dónde estoy yo?
 
 
