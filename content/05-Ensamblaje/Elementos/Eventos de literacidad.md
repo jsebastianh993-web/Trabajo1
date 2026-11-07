@@ -1,0 +1,3 @@
+#Ensamblaje 
+
+Los Nuevos Estudios de Literacidad (NLS) han formulado que hay [eventos de literacidad](<Eventos de literacidad>) en los que los sujetos leen y escriben en situaciones/momentos/espacios concretos (Barton & Hamilton, 2004). Para los NLS estos eventos pueden verse y permiten "inferir" las prácticas letradas, que se entienden como fenómenos "no-observables". En mi propuesta no espero ver eventos letrados, espero que el ensamblaje los produzca. Además, espero complejizar el dualismo evento/práctica como elementos que además existen afuera de la investigación. Por esto, cada sesión es al mismo tiempo producida por su . Para esto, en ensamblaje espera producir sesiones de lectura y escritura concretas. 

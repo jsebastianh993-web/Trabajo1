@@ -1,30 +1,32 @@
 #Ensamblaje
 
-Siguiendo lo planteado en mi [[Arreglo desplazado]], en este ejercicio  busco diseñar un ensamblaje sobre  literacidad académica que produzca datos de dimensiones materiales, afectivas y sociales de la lectura y la escritura académica. 
+Siguiendo lo planteado en mi [[Arreglo desplazado]], en este ejercicio busco diseñar un ensamblaje sobre literacidad académica que produzca datos de dimensiones materiales, afectivas y sociales de la lectura y la escritura académica. 
 
 Entiendo un ensamblaje como una maquina productiva que junta elementos afectivamente para hacer o producir algo (Fox & Alldred, 2015). Un ensamblaje es un ejercicio productivo y no meramente observacional, pues produce aquello que estudia al establecer conexiones materiales entre cuerpos (Jackson & Mazzei, 2022).
+## Leer difractivamente la literacidad 
 
-Para mi ensamblaje, consideré necesario producir información de formas que incomoden las tres técnicas tradicionales de los estudios sobre literacidad: 1) El análisis de textos, 2) Las entrevistas (sean basadas en textos o no) y 3) la observación participante (Lillis, 2007). 
+Para mi ensamblaje, consideré necesario buscar estrategias para producir información de formas que aprovechen pero incomoden las tres técnicas tradicionales de los estudios sobre literacidad: 1) El análisis de textos, 2) Las entrevistas (sean basadas en textos o no) y 3) la observación participante (Lillis, 2007). Los Nuevos Estudios de Literacidad (NLS) piensan estas opciones como complementarias al análisis textual. Así, buscan superan el "sesgo" de pensar que los principales aspectos de la escritura puede reconocerse en la superficie textual. Sin embargo, en este movimiento se formulan como un acercamiento más objetivo a las formas de leer y escribir de los estudiantes (Lillis, 2001). En este movimiento, pueden dejar de lado la potencia productiva de la investigación, la observación y el registro de textos como ensamblajes de materialidades.  
 
-Las entrevistas basadas en textos se piensan como opciones complementarias al análisis textual que superen el "sesgo" de pensar que los principales aspectos de la escritura puede reconocerse en la superficie textual. Sin embargo, en este movimiento se formulan como un acercamiento más cercano a las formas de leer y escribir de los estudiantes (Lillis, 2001). 
+No busco quedarme en la crítica, ni desenmascarar a los NLS de sus fallas. Más bien busco establecer una lectura difractiva de algunas de sus ideas y métodos (Murris & Bozalek, 2019), a través de cuerpos teóricos que recomponen sus supuestos teóricos y abren posibilidades distintas para estudiar la lectura y la escritura. Puntualmente, este trabajo establece un diálogo entre los NLS, el [giro afectivo](Afectos) y [los nuevos materialismos](Materialidad). Además, en este ensamblaje describo una serie de [[Intentos]] en los que la materialidad de la escritura de estudiantes de postgrado pone a prueba los alcances de esta propuesta. 
 ## Preguntas 
 
-*¿Cómo se producen afectiva y materialmente las [prácticas de literacidad académica](Prácticas de literacidad) de [estudiantes de magíster](Estudiantes de maestría) (online/presencial)?*
+*¿Cómo se producen afectiva y materialmente las [[Prácticas de literacidad]] de [[Estudiantes de maestría]](online/presencial)?*
 
 Esta pregunta general se desagrega en preguntas específicas que dan partida a la exploración desarrollada en este ejercicio.
 
 **Subpreguntas de este ejercicio**
 
-*¿Que afectos y [materialidades](Materialidad.md) circulan en eventos de literacidad académica cuando se registran de forma multimodal?*
+*¿Que [afectos](Afectos.md) y [materialidades](Materialidad.md) circulan en eventos de literacidad académica cuando se registran de forma multimodal?*
 
 *¿Cómo se producen [cuerpos](Cuerpo.md) en eventos de lectura y escritura académica ?*
+
 ## ¿Qué busco producir? 
 
-1. *Sesiones de lectura y escritura, en las que estudiantes de maestría produzcan registros audiovisuales sobre las formas en que leen y escriben:* Los Nuevos Estudios de Literacidad (NLS) han formulado que hay [eventos de literacidad](Eventos de literacidad) en los que los sujetos leen y escriben en situaciones/momentos/espacios concretos (Barton & Hamilton, 2004). Para los NLS estos eventos pueden verse y permiten "inferir" las prácticas letradas que no son "observables". En mi propuesta no espero ver eventos letrados, espero producirlos. Además, espero complejizar el dualismo evento/práctica. Para esto, en ensamblaje espera producir sesiones de lectura y escritura concretas. 
+1. *[Sesiones de lectura y escritura](<Sesiones de lectura y escritura>), en las que estudiantes de maestría produzcan [registros](Registro.md) audiovisuales sobre [las formas en que leen y escriben](<Eventos de literacidad>).
 
-2. *Narrativas no-lineales sobre prácticas de literacidad*: Considerar dimensiones materiales en el proceso de producción de narrativas y no reducirlas a enfoques socioconstructivistas o hermenéuticos ofrece posibilidades para cuestionar la centralidad del sujeto liberal en la configuración de narrativas (Livholts & Tamboukou, 2015). Con esto espero aumentar las capacidades de este ensamblaje de conectar con prácticas, la producción de cuerpos y la inclusión/exclusión de elementos materiales, espacios y conexiones (Jørgensen & Strand, 2014). Las narrativas que busco producir no son lineales ni representan  a sujetos individuales (Mazzei, 2013)
+2. *[Narrativas no-lineales](<Métodos narrativos>) sobre prácticas de literacidad*
 
-3. *Cartografías afectivas:* 
+3. *[[Mapas afectivos]] que relacionen cuerpos humanos y no-humanos en [eventos de literacidad situados](<eventos de literacidad>)* 
 ## ¿Dónde estoy yo?
 
 
