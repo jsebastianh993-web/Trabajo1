@@ -1,0 +1,4 @@
+#arreglo-desplazado 
+
+1. Busco, desde las éticas del cuidado y la alegría (Braidotti, 2018) producir una investigación que no se quede en la crítica (las relaciones de poder o la opresión), que imagine nuevas formas de juntarse en una de las actividades más aisladas y solitarias que hacemos: Leer y escribir en postrados. El grado de especialización en el que entramos parece que nos llevara a diferenciarnos tanto de los nuestros, que nos aisla, nos separa, a pesar de estar en prácticas materialmente cercanas. Por medio del grupo, busco explorar formas de hacer esto de forma distinta. 
+2. Sé que no soy un observador neutral. No pretendo serlo. Es más, la cercanía que tengo con mis participantes posibilta la emergencia de afectos, conversaciones y dimensiones de estas prácticas que probablemente sea más difícil producir con otros.

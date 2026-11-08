@@ -1,5 +1,4 @@
 
-
 ACSES. (2026). Mode of attendance in Australian higher education: Analysis of 2024 data (2026 update). _ACSES_. https://www.acses.edu.au/publication/mode-of-attendance-2026-update/
 
 Ahmed, S. (2014). _La política cultural de las emociones_ (2a ed). Universidad Nacional Autónoma de México.
@@ -26,6 +25,8 @@ Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. _Qualitat
 
 Calle-Arango, L., & Ávila Reyes, N. (2022). “Uno sufre más por adaptarse a este género que por expresar las ideas”: Experiencias de doctorandos en la construcción de sus revisiones de literatura. _Calidoscópio_, _20_(1), 130-153. https://doi.org/10.4013/cld.2022.201.07
 
+Carrasco Segovia, S. V., Hernández Hernández, F., & Sancho-Gil, J. M. (Eds.). (2023). _Affective Cartographies: Affinities and Affects in Arts, Research, and Pedagogies_. Springer International Publishing. https://doi.org/10.1007/978-3-031-42163-1
+
 Castelló, M., Sala-Bubaré, A., & Pardo, M. (2021). Post-PhD Researchers’ Trajectories and Networking: The Mediating Role of Writing Conceptions. _Written Communication_, _38_(4), 479-511. https://doi.org/10.1177/07410883211027949
 
 Creswell, J. W. (2014). _Research design: Qualitative, quantitative, and mixed methods approaches_ (4th ed). SAGE Publications.
@@ -36,6 +37,8 @@ Ehret, C., & Rowsell, J. (2021). Literacy, Affect, and Uncontrollability. _Readi
 
 Fawns, T., Aitken, G., & Jones, D. (Eds.). (2021). _Online Postgraduate Education in a Postdigital World: Beyond Technology_. Springer International Publishing. https://doi.org/10.1007/978-3-030-77673-2
 
+Flower, L., & Hayes, J. R. (1981). A Cognitive Process Theory of Writing. _College Composition & Communication_, _32_(4), 365-387. https://doi.org/10.58680/ccc198115885
+
 Fox, N. J., & Alldred, P. (2015). New materialist social inquiry: Designs, methods and the research-assemblage. _International Journal of Social Research Methodology_, _18_(4), 399-414. https://doi.org/10.1080/13645579.2014.921458
 
 Gee, J. P. (2008). _Social linguistics and literacies: Ideology in discourses_ (3. ed). Routledge.
@@ -44,7 +47,15 @@ HESA. (2026). _Higher Education Student Statistics: UK, 2024/25 | HESA_. HESA. h
 
 Ivanič, R. (2004). Discourses of Writing and Learning to Write. _Language and Education_, _18_(3), 220-245. https://doi.org/10.1080/09500780408666877
 
+Jackson, A. Y., & Mazzei, L. A. (2022). _Thinking with Theory in Qualitative Research_ (2.a ed.). Routledge. https://doi.org/10.4324/9781315667768
+
+Jin, Y., Yang, K., Martinez-Maldonado, R., Gasevic, D., & Yan, L. (2026). The agency gap in AI-supported writing: How reactive and proactive agent designs shape multimodal reasoning. _Computers and Education: Artificial Intelligence_, _11_, 100655. https://doi.org/10.1016/j.caeai.2026.100655
+
+Jørgensen, K. M., & Strand, A. M. C. (2014). MATERIAL STORYTELLING – LEARNING AS INTRA-ACTIVE BECOMING. En _Critical Narrative Inquiry – Storytelling, Sustainability and Power_. Nova Science Publishers.
+
 Jusslin, S., & Hilli, C. (2024). Supporting bachelor’s and master’s students’ thesis writing: A rhizoanalysis of academic writing workshops in hybrid learning spaces. _Studies in Higher Education_, _49_(4), 712-729. (176277885). https://doi.org/10.1080/03075079.2023.2250809
+
+Kreijkes, P., Kewenig, V., Kuvalja, M., Lee, M., Hofman, J. M., Vitello, S., Sellen, A., Rintel, S., Goldstein, D. G., Rothschild, D., Tankelevitch, L., & Oates, T. (2026). Effects of LLM use and note-taking on reading comprehension and memory: A randomised experiment in secondary schools. _Computers & Education_, _243_, 105514. https://doi.org/10.1016/j.compedu.2025.105514
 
 Lave, J., & Wenger-Trayner, É. (2020). _Situated learning: Legitimate peripheral participation_ (31st printing). Cambridge Univ. Press.
 
@@ -58,11 +69,17 @@ Livholts, M., & Tamboukou, M. (2015). _Discourse and Narrative Methods_.
 
 Massumi, B. (1995). The Autonomy of Affect. _Cultural Critique_, (31), 83-109. https://doi.org/10.2307/1354446
 
+Mazzei, L. A. (2013). _A voice without organs_: Interviewing in posthumanist research. _International Journal of Qualitative Studies in Education_, _26_(6), 732-740. https://doi.org/10.1080/09518398.2013.788761
+
 MINEDUC. (2025). _Informe 2025. Matrícula en Educación Superior en Chile_. https://mifuturo.cl/wp-content/uploads/2025/07/Informe_Matricula_2025_SIES.pdf
+
+Murris, K., & Bozalek, V. (2019). Diffraction and response-able reading of texts: The relational ontologies of Barad and Deleuze. _International Journal of Qualitative Studies in Education_, _32_(7), 872-886. https://doi.org/10.1080/09518398.2019.1609122
 
 Rahmani, A. M., Groot, W., & Rahmani, H. (2024). Dropout in online higher education: A systematic literature review. _International Journal of Educational Technology in Higher Education_, _21_(1), 19. https://doi.org/10.1186/s41239-024-00450-9
 
 Rosiek, J. L., Snyder, J., & Pratt, S. L. (2020). The New Materialisms and Indigenous Theories of Non-Human Agency: Making the Case for Respectful Anti-Colonial Engagement. _Qualitative Inquiry_, _26_(3-4), 331-346. https://doi.org/10.1177/1077800419830135
+
+Sandstead, M., & Kibler, A. (2025). Voice in L2 writing in the age of AI. _Journal of Second Language Writing_, _69_, 101212. https://doi.org/10.1016/j.jslw.2025.101212
 
 Spinoza, B. (2020). _Ética demostrada según el orden geométrico_. Editorial Trotta.
 

@@ -7,17 +7,17 @@ Sebastián Ortiz
 
 Leer y escribir aún son prácticas centrales en la educación superior. [La productividad académica se ha disparado](https://arxiv.org/html/2412.07727v2) en todos los campos disciplinares y la colaboración y generación de investigación con Inteligencia Artificial Generativa (IAG) ha comenzado a producir [resultados de investigación cada vez más complejos y abundantes](https://terrytao.wordpress.com/2026/09/15/the-technical-debt-of-ai-generated-mathematics/). Las comunidades académicas se enfrentan hoy a una proliferación de producción que insta a leer y escribir cada vez más. En consecuencia, las revisiones de literatura científica publicadas cada vez abarcan más bibliografía y la comunidad académica ha comenzado a [repensar la lógica misma de este género discursivo](https://doi.org/10.1007/s11301-025-00513-9). 
 
-Pese a esto, también se ha llegado a formular que el creciente uso de IAG y los índices de lectura de estudiantes pueden significar el ["el fin de la lectura"](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/) en las universidades. Si bien la literatura sobre lectura invita a matizar esta afirmación (Kreijkes et al., 2026), es inevitable reconocer ciertos desplazamientos. 
+Pese a esto, también se ha llegado a formular que el creciente uso de IAG y los índices de lectura de estudiantes pueden significar el ["el fin de la lectura"](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/) en las universidades. Si bien incluso la investigación más conservadora sobre lectura invita a matizar esta afirmación (Kreijkes et al., 2026), es inevitable reconocer ciertos desplazamientos. 
 
-La educación superior gira cada vez más hacia las modalidades online y otras formas de digitalización altamente influenciadas por el desarrollo de la IAG (UNESCO, 2026). En tanto, las prácticas de lectura y escritura cotidianas se están transformando marcadamente en los contextos académicos (Zavala, 2026). 
+La educación superior gira cada vez más hacia las modalidades online y otras formas de digitalización altamente influenciadas por el desarrollo de la IA (UNESCO, 2026). En tanto, las prácticas de lectura y escritura cotidianas se están transformando marcadamente en los contextos académicos (Zavala, 2026). 
 
-Sin embargo, en el campo de la investigación sobre [Literacidades Académicas](Prácticas letradas), aún se indaga poco sobre este contexto sin reducirlo a traducciones de problemas pasados. Por ejemplo, se ha propuesto que la IA puede conllevar la pérdida de voz autorial (Sandstead & Kibler, 2025), algo que se ha señalado extensamente respecto a prácticas de retroalimentación y formas de plagio en el pasado (Lillis, 2001). Otros estudios advierten sobre la posible delegación de tareas y los obstáculos a la agencia (Jin et al., 2026), pero mantienen su foco y preocupación en el proceso individual de aprendizaje individual sin reconocer la producción de diferencias, corporalidades y materialidad en las prácticas de literacidad concretas. 
+Sin embargo, en el campo de la investigación sobre [Literacidades Académicas](Prácticas letradas), aún se indaga poco sobre este contexto sin reducirlo a traducciones de problemas pasados. Por ejemplo, se ha propuesto que la IA puede conllevar la pérdida de voz autorial (Sandstead & Kibler, 2025), algo que se ha señalado extensamente respecto a prácticas de retroalimentación y formas de plagio anteriormente (Lillis, 2001). Otros estudios advierten sobre la posible delegación de tareas y los obstáculos a la agencia (Jin et al., 2026), pero mantienen su foco y preocupación en el proceso individual de aprendizaje individual sin reconocer la producción de diferencias, corporalidades y materialidad en las prácticas de literacidad concretas. 
 
-Así, la discusión sobre la agencia y la voz de estudiantes y docentes y sus prácticas con frecuencia pone su foco en reconocer sujetos deseables. Este sujeto que se busca en la investigación, con frecuencia es un individuo liberal, capaz de constituirse a sí mismo con una identidad y una voz que lo diferencia. 
+Así, la discusión sobre la agencia y la voz de estudiantes y docentes y sus prácticas con frecuencia pone su foco en reconocer sujetos deseables. Este sujeto que se busca en la investigación, con frecuencia es un individuo liberal, capaz de constituirse a sí mismo con una identidad y una voz que lo diferencia cuando escribe.  
 
-Ahora bien, más allá de su aparente carácter individual y mental, incluso en la distancia y en soledad, leer y escribir son prácticas sociales (Street, 1999) y materiales atravesadas por tecnologías (Boyle, 2016). Cuando leemos y escribimos lo hacemos con fines sociales específicos (Zavala, 2026) producimos nuestros cuerpos en contacto con otros (Rule, 2018) y estamos atravesados por tecnologías digitales y análogas a las que nos conectamos (Deleuze & Guatari, 1987).
+Más allá de su aparente carácter individual y mental, incluso en la distancia y en soledad, leer y escribir son prácticas sociales (Street, 1999) y materiales atravesadas por tecnologías (Boyle, 2016). Cuando leemos y escribimos lo hacemos con fines sociales específicos (Zavala, 2026) producimos nuestros cuerpos en contacto con otros (Rule, 2018) y estamos atravesados por tecnologías digitales y análogas a las que nos conectamos y ensamblamos (Deleuze & Guatari, 1987).
 
-Creo que vale la pena entonces preguntarse ¿qué relaciones existen entre los dispositivos, los objetos, las herramientas digitales, los contextos sociales y nuestras formas de leer y escribir? ¿los estudiantes y docentes de postgrado, involucrados en comunidades académicas, estamos leyendo distinto? ¿cómo podemos indagar sobre las formas en que escribimos y leemos cotidianamente en nuestras casas y universidades? 
+Creo que vale la pena entonces preguntarse ¿qué relaciones existen entre los dispositivos, los objetos, las herramientas digitales, los contextos sociales y nuestras formas de leer y escribir en la universidad actual? ¿los estudiantes y docentes de postgrado, involucrados en comunidades académicas, estamos leyendo distinto? ¿cómo podemos indagar sobre las formas en que escribimos y leemos cotidianamente en nuestras casas y universidades? 
 
 Estas interrogantes fueron el punto de partida de [este espacio](#Nodos).
 
@@ -29,9 +29,9 @@ El [giro afectivo](Afectos.md), la teoría [materialista](Materialidad) y la ind
 
 ## **Navegar este sitio**
 
-El espacio está compuesto por notas, carpetas y un grafo cartográfico. Todos abren distintas [rutas de exploración](Navegar.md).  En esta versión algunas notas tienen música que puede reproducirse directamente desde el sitio.
+El espacio está compuesto por notas, carpetas y un grafo cartográfico. Todos los enlaces abren distintas [rutas de exploración](Navegar.md).  En esta versión algunas notas tienen música que puede reproducirse directamente desde el sitio.
 
-Una lectura lineal podría comenzar por el arreglo inicial y seguir el orden de las carpetas y nodos (01-07) hasta los intentos. Aun así, la estructura del sitio busca hacer posible una [lectura fragmentaria](Navegar.md) que (quizá) está conectada a formas de leer que usamos cotidianamente (para trabajar, estudiar, comunicarnos, navegar, interactuar en un Chat con IAG, entre otras). 
+Una lectura lineal podría comenzar por el arreglo inicial de investigación y seguir el orden de las carpetas y nodos (01-07) hasta los intentos. Aun así, la estructura del sitio busca hacer posible una [lectura fragmentaria](Navegar.md) que (quizá) está conectada a formas de leer que usamos cotidianamente (para trabajar, estudiar, comunicarnos, navegar, interactuar en un Chat con IAG, entre otras). 
 
 ## Nodos
 
@@ -49,7 +49,7 @@ En su V1, el espacio reunió el desplazamiento de algunas de mis ideas de invest
 
 *v2*
 
-Esta segunda versión busca explorar y poner a prueba formas de producir datos. Es el resumen de un [[Ensamblaje de investigación]] sobre leer y escribir en la educación superior posgradual en el presente. Recojo también algunos [[Intentos]] que producen datos para mi investigación. 
+Esta segunda versión busca explorar y poner a prueba formas de producir datos. Es el resumen de un [[Ensamblaje de investigación]] sobre leer y escribir en la educación superior posgradual en el presente. Recojo también algunos [[Intentos]] que producen datos para mi investigación. Además, agrefo los conceptos de [[cuerpo]] y [[materialidad]].
 
 *El código de migración de datos desde la aplicación Obsidian hacia el repositorio git en Quartz que permite esta visualización fue asistido con Claude AI.*
 

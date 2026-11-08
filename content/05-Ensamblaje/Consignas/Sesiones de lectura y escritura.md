@@ -10,9 +10,11 @@ Una sesión de escritura es definida en esta investigación como un momento de m
 
 ## ¿Por qué sesiones?
 
-Los estudios cognitivos de la escritura se han valido de los "protocolos de escritura para estudiar" el "proceso de composición" (Flower & Hayes, 1981). Esto consiste en enunciar en voz alta lo que sucede mientras se escribe un texto en sesiones delimitadas espaciotemporalmente. Con métodos como este se han producido los principales modelos cognitivos de escritura. 
+Los estudios cognitivos de la escritura se han valido de los "protocolos de escritura para estudiar" el "proceso de composición" (Flower & Hayes, 1981). Esto consiste en enunciar en voz alta lo que sucede mientras se escribe un texto en sesiones delimitadas espaciotemporalmente. Con métodos como este se han producido los principales modelos cognitivos de escritura, que pretenden explicar los procesos de pensamiento que dirigen y modifican el proceso de escribir.
 
 En este trabajo busco formas de producir datos sobre lo que sucede no en la "mente", ni en los procesos de pensamiento, sino en los ensamblajes que se producen en sesiones de escritura y en [[Eventos de literacidad]] específicos en los que no estoy físicamente con mis participantes. 
+
+Que no esté físicamente ahí, no quiere decir que la materialidad y los afectos no jueguen un rol central. 
 
 ![[Cognitive-Process-Model-of-the-Writing-Processes-Flower-Hayes-1981 copia.jpg]]
 
