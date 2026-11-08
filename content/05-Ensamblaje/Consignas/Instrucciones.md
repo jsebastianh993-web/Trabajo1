@@ -29,7 +29,7 @@ El objetivo es registrar sesiones de escritura y/o lectura académica (en el cas
 
 **Envío**
 
-Al final de la sesión harán un envío de su registro. Imagínense cada envío como un post o una entrada en un diario digital. Por cada sesión registrada debería haber al menos 1 Fotografía, 1 pantallazo, 1 fragmento textual y 1 descripción . En caso de quererlo, pueden incluir la música que están escuchando en el momento o enviar más de uno de los elementos sugeridos.
+Al final de la sesión harán un envío de su registro. Imagínense cada envío como un post o una entrada en un diario digital. Por cada sesión registrada debería haber al menos 1 Fotografía, 1 pantallazo, 1 fragmento textual y 1 descripción. En caso de quererlo, pueden incluir la música que están escuchando en el momento o enviar más de uno de los elementos sugeridos.
 
 **Pasos**
 

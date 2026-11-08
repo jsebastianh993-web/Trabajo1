@@ -52,6 +52,8 @@ Por medio de un [grupo de Whatsapp](Conversaciones grupales en chat) construido 
 El momento del envío era libre, y la única restricción temporal fue hacer al menos un registro en dos semanas distintas, una en septiembre y otra en noviembre. Entre estas dos semanas las [[instrucciones]] se alteraron.
 
 Los participantes son personas cercanas a mí, con mi misma formación de pregrado pero con intereses académicos actuales distintos. Aceptaron participar en este ejercicio, para explorar y alterar conmigo las posibilidades de este ensamblaje. También accedieron a publicar, de forma anónima, sus registros en este sitio. 
+
+[Este sitio](index) es también parte del ensamblaje, pues está pensado para ofrecer múltiples visualizaciones y lecturas de los mismos datos. Los participantes pudieron acceder a esta visualización.  
 ## El investigador y sus registros
 
 Me veo como parte de la producción de los datos, no como alguien externo que los analiza nada más. También leo y escribo. También me siento en escritorios y veo textos multimodales. Intenté documentar ideas que iban surgiendo durante este proceso, impresiones, cambios. Además, decidí incluir [algunos registros del proceso de escribir las notas de este sitio](Registros de escritura de este sitio). 
