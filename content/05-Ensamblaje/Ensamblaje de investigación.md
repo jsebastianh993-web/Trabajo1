@@ -41,7 +41,7 @@ Esta pregunta general se desagrega en preguntas específicas que dan inicio a la
 
 Desde septiembre de 2026 comencé un ejercicio de [experimentación](Intentos) con dos estudiantes de postgrado (a nivel de maestría) en Colombia. Los dos participantes están en el proceso de escribir sus tesis de grado de maestría en estudios literarios e historia del arte. 
 
-Por medio de un [grupo de Whatsapp](Conversaciones grupales en chat) construido solo con los participantes, les propuse compartir [registros](Registro.md) de algunas de sus [[sesiones de lectura y escritura]]. Cada registro siguió [[instrucciones]] que diseñé para los participantes y se compone de: 
+Por medio de un [grupo de Whatsapp](<Conversaciones grupales en chat>) construido solo con los participantes, les propuse compartir [registros](Registro.md) de algunas de sus [[sesiones de lectura y escritura]]. Cada registro siguió [[instrucciones]] que diseñé para los participantes y se compone de: 
 
 1. [[Fotos]] 
 2. [[Screenshots]]
