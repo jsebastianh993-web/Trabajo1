@@ -15,7 +15,7 @@ Adicionalmente, desarrollo una lectura difractiva de los métodos tradicionales 
 
 Los NLS se formulan como un acercamiento más holístico a las formas de leer y escribir de los estudiantes (Lillis, 2001). Sin embargo, pueden llegar a suponer que superar el sesgo textual es entender todas las dimensiones sociales y materiales de la literacidad. 
 
-Este ensamblaje no parte del análisis de los textos, ni de entrevistas basadas en textos, sino que se focaliza en la producción de [registros](Registro) de [[sesiones de lectura y escritura]]. Busco mezclar imagen, sonido y texto lineal, para explorar distintos ejes materiales y afectivos de la lectura a los cuales aparentemente solo tiene acceso quien está en la sesión, quien lee y escribe. El registro busca ver escritorios, documentos de word, cuadernos, sillas, fuentes de luz y otros elementos que tienden a quedar por fuera de los estudios sobre literacidad. 
+Este ensamblaje no parte del análisis de los textos, ni de entrevistas basadas en textos, sino que se focaliza en la producción de [registros](Registro.md) de [[sesiones de lectura y escritura]]. Busco mezclar imagen, sonido y texto lineal, para explorar distintos ejes materiales y afectivos de la lectura a los cuales aparentemente solo tiene acceso quien está en la sesión, quien lee y escribe. El registro busca ver escritorios, documentos de word, cuadernos, sillas, fuentes de luz y otros elementos que tienden a quedar por fuera de los estudios sobre literacidad. 
 
 En este ensamblaje articulo y organizo una serie de [[Intentos]] en los que la materialidad de los eventos de literacidad de [estudiantes de postgrado](<Estudiantes de maestría>) pone a prueba los alcances narrativos de esta propuesta.
 ## Preguntas 
@@ -41,7 +41,7 @@ Esta pregunta general se desagrega en preguntas específicas que dan partida a l
 
 Desde septiembre de 2026 comencé un ejercicio de [experimentación](Intentos) con dos estudiantes de postgrado (a nivel de maestría) en Colombia. Los dos participantes están en el proceso de escribir sus tesis de grado de maestría en estudios literarios e historia del arte. 
 
-Por medio de un [grupo de Whatsapp](Conversaciones grupales en chat) construido solo con los participantes, les propuse compartir [registros](Registro) de algunas de sus [[sesiones de lectura y escritura]]. Cada registro siguió [[instrucciones]] que diseñé para los participantes y se compone de: 
+Por medio de un [grupo de Whatsapp](Conversaciones grupales en chat) construido solo con los participantes, les propuse compartir [registros](Registro.md) de algunas de sus [[sesiones de lectura y escritura]]. Cada registro siguió [[instrucciones]] que diseñé para los participantes y se compone de: 
 
 1. [[Fotos]] 
 2. [[Screenshots]]
