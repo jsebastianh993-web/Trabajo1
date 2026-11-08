@@ -53,7 +53,7 @@ El momento del envío era libre, y la única restricción temporal fue hacer al 
 
 Los participantes son personas cercanas a mí, con mi misma formación de pregrado pero con intereses académicos actuales distintos. Aceptaron participar en este ejercicio, para explorar y alterar conmigo las posibilidades de este ensamblaje. También accedieron a publicar, de forma anónima, sus registros en este sitio. 
 
-[Este sitio](index) es también parte del ensamblaje, pues está pensado para ofrecer múltiples visualizaciones y lecturas de los mismos datos. Por una parte, en la carpeta materiales es posible ver los registros desarticulados, juntados solamente por el tipo de registro. Pueden verse todas las [[fotos]], los [[screenshots]], etc. De todas formas, también puede verse cada registro individual. Este tipo de trabajo es un ejercicio de análisis que aspira a superar las dimensiones [representacionales](<1 No representación>]) de la investigación (MacLure, 2013).
+[Este sitio](index) es también parte del ensamblaje, pues está pensado para ofrecer múltiples visualizaciones y lecturas de los mismos datos. Por una parte, en la carpeta materiales es posible ver los registros desarticulados, juntados solamente por el tipo de registro. Pueden verse todas las [[fotos]], los [[screenshots]], etc. De todas formas, también puede verse cada registro individual. Este tipo de trabajo es un ejercicio de análisis que aspira a superar las dimensiones representacionales de la investigación (MacLure, 2013).
 
 Los participantes pudieron acceder a esta visualización en una versión preliminar.  
 ## El investigador y sus registros
