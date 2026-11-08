@@ -1,7 +1,7 @@
 #arreglo-desplazado 
 
 1. Busco, desde las éticas del cuidado y la alegría (Braidotti, 2018) producir una investigación que no se quede en la crítica de las práticas dominantes (las relaciones de poder o la opresión). Busco imaginar nuevas formas de juntarse en una de las actividades más aisladas y solitarias que hacemos en la universidad: Leer y escribir en postrados. El grado de especialización en el que entramos parece que nos llevara a diferenciarnos tanto de los nuestros, que nos aisla, nos separa, a pesar de estar en prácticas materialmente cercanas. Por medio del grupo, busco explorar formas de hacer esto de forma distinta. 
-2. Sé que no soy un observador neutral. No pretendo serlo. Es más, la cercanía que tengo con mis participantes posibilta la emergencia de afectos, conversaciones y dimensiones de estas prácticas que probablemente sea más difícil producir con otros. 
+2. Sé que no soy un observador neutral, ni pretendo serlo. Es más, la cercanía que tengo con mis participantes posibilta la emergencia de afectos, conversaciones y dimensiones de estas prácticas que probablemente sea más difícil producir con otros. 
 3. Todos los datos están anonimizados y cada etapa consideró consentimiento informado. 
 4. Los participantes son lectores privilegiados de este espacio y las modificaciones que consideren necesarias se implementarán. 
-5. Este espacio busca llegar a un punto de co-construcción en el que sirva también para imaginar con los participantes nuevas formas de seguir creciendo. 
+5. Este espacio busca llegar a un punto de co-construcción que sirva también para imaginar con los participantes nuevas formas de transformar el ensamblaje de investigación. Lo producido espera tener un uso potencial para el desarrollo de mi tesis.

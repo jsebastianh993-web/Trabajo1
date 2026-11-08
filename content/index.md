@@ -25,7 +25,7 @@ Estas interrogantes fueron el punto de partida de este espacio.
 
 El [giro afectivo](Afectos.md), los [nuevos materialismos](Materialidad) y la indagación sobre el [cuerpo](Cuerpo) ofrecen posibilidades para reconocer dimensiones y agencias materiales, encarnadas y no-humanas en eventos de escritura y la lectura académica, que tendemos a omitir en los estudios sobre literacidad. Así, entender la lectura y la escritura de forma difractiva puede reconfigurar los límites de investigaciones anteriores. La pregunta que exploro actualmente en este sitio es:
 
-*¿Cómo se producen afectiva y materialmente las [prácticas de literacidad académica](Prácticas de literacidad) de estudiantes de magíster?*
+*¿Cómo se producen afectiva y materialmente las [[Prácticas de literacidad]] de [[Estudiantes de maestría]] (online/presencial)?*
 
 ## **Navegar este sitio**
 
