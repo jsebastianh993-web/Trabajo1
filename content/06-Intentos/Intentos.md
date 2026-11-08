@@ -2,7 +2,7 @@
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2LD2gT7gwAurzdQDQtILds?utm_source=generator&si=1dfe6ee0239d435d" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-A finales de septiembre de 2026 comencé a registrar un proceso de experimentación inspirado en [metodologías narrativas](Métodos narrativos). El ejercicio buscaba reconocer elementos materiales de las prácticas de literacidad de estudiantes de magíster en Colombia. Actualmente, este proceso está dando forma a un [[ensamblaje de investigación]]. 
+A finales de septiembre de 2026 comencé a registrar un proceso de experimentación inspirado en [metodologías narrativas](<Métodos narrativos>). El ejercicio buscaba reconocer elementos materiales de las prácticas de literacidad de estudiantes de magíster en Colombia. Actualmente, este proceso está dando forma a un [[ensamblaje de investigación]]. 
 
 Los registros están nombrados con su fecha siguiendo el formato DD-MM. 
 ## Septiembre
