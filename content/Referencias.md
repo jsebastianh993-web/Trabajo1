@@ -1,4 +1,3 @@
-
 ACSES. (2026). Mode of attendance in Australian higher education: Analysis of 2024 data (2026 update). _ACSES_. https://www.acses.edu.au/publication/mode-of-attendance-2026-update/
 
 Ahmed, S. (2014). _La política cultural de las emociones_ (2a ed). Universidad Nacional Autónoma de México.
@@ -41,6 +40,8 @@ Flower, L., & Hayes, J. R. (1981). A Cognitive Process Theory of Writing. _Colle
 
 Fox, N. J., & Alldred, P. (2015). New materialist social inquiry: Designs, methods and the research-assemblage. _International Journal of Social Research Methodology_, _18_(4), 399-414. https://doi.org/10.1080/13645579.2014.921458
 
+Gamble, C. N., Hanan, J. S., & Nail, T. (2019). What Is New Materialism? _Angelaki_, _24_(6), 111-134. https://doi.org/10.1080/0969725X.2019.1684704
+
 Gee, J. P. (2008). _Social linguistics and literacies: Ideology in discourses_ (3. ed). Routledge.
 
 HESA. (2026). _Higher Education Student Statistics: UK, 2024/25 | HESA_. HESA. https://www.hesa.ac.uk/news/27-01-2026/sb273-higher-education-student-statistics
@@ -67,6 +68,8 @@ Lillis, T., & Scott, M. (2007). Defining academic literacies research: Issues of
 
 Livholts, M., & Tamboukou, M. (2015). _Discourse and Narrative Methods_.
 
+MacLure, M. (2013). Researching without representation? Language and materiality in post-qualitative methodology. _International Journal of Qualitative Studies in Education_, _26_(6), 658-667. https://doi.org/10.1080/09518398.2013.788755
+
 Massumi, B. (1995). The Autonomy of Affect. _Cultural Critique_, (31), 83-109. https://doi.org/10.2307/1354446
 
 Mazzei, L. A. (2013). _A voice without organs_: Interviewing in posthumanist research. _International Journal of Qualitative Studies in Education_, _26_(6), 732-740. https://doi.org/10.1080/09518398.2013.788761
@@ -92,5 +95,7 @@ Strom, K. J. (2018). “That’s Not Very Deleuzian”: Thoughts on interrupting
 Tuck, E. (2009). Suspending Damage: A Letter to Communities. _Harvard Educational Review_, _79_(3), 409-428. https://doi.org/10.17763/haer.79.3.n0016675661t3n15
 
 UNESCO. (2026). _Transforming higher education: Global collaboration on visioning and action_. UNESCO. https://doi.org/10.54675/SNJW1822
+
+Véliz, S., & García-González, M. (2022). Becoming abject: Testing the limits and borders of reading mediation. _Discourse: Studies in the Cultural Politics of Education_, _43_(1), 15-29. https://doi.org/10.1080/01596306.2020.1786355
 
 Yin, R. K. (2003). _Case study research: Design and methods_ (3rd ed). Sage Publications.

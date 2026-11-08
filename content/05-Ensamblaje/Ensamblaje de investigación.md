@@ -59,6 +59,8 @@ Los participantes pudieron acceder a esta visualización en una versión prelimi
 ## El investigador y sus registros
 
 Me veo como parte de la producción de los datos, no como alguien externo que los analiza nada más. También leo y escribo. También me siento en escritorios y veo textos multimodales. Intenté documentar ideas que iban surgiendo durante este proceso, impresiones, cambios. Además, decidí incluir [algunos registros del proceso de escribir las notas de este sitio](Registros de escritura de este sitio). Aunque estos no son protagonistas, se mezclan con el resto de los datos.
+
+Adicionalmente, propongo [[Consideraciones éticas]] que orientan este ejercicio.
 ## ¿Cómo leer los datos?
 
 Los registros pueden consultarse desde la organización producida en el listado anterior (por tipo de soporte) o dependiendo del momento en que fueron compartidos como [[Intentos]]. 

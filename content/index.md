@@ -29,7 +29,7 @@ El [giro afectivo](Afectos.md), la teoría [materialista](Materialidad) y la ind
 
 ## **Navegar este sitio**
 
-El espacio está compuesto por notas, carpetas y un grafo cartográfico. Todos los enlaces abren distintas [rutas de exploración](Navegar.md).  En esta versión algunas notas tienen música que puede reproducirse directamente desde el sitio.
+El espacio está compuesto por notas, carpetas y un grafo cartográfico. Todos los enlaces abren distintas [rutas de exploración](Navegar.md).  En esta versión algunas notas tienen música que puede reproducirse directamente desde el sitio. Recoge canciones, playlist, artistas que se escuchaban en los registros realizados por participantes y en el proceso mismo de construcción de este sitio. 
 
 Una lectura lineal podría comenzar por el arreglo inicial de investigación y seguir el orden de las carpetas y nodos (01-07) hasta los intentos. Aun así, la estructura del sitio busca hacer posible una [lectura fragmentaria](Navegar.md) que (quizá) está conectada a formas de leer que usamos cotidianamente (para trabajar, estudiar, comunicarnos, navegar, interactuar en un Chat con IAG, entre otras). 
 

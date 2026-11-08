@@ -1,7 +1,8 @@
+#Intentos 
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/16GUMo6u3D2qo9a19AkYct?utm_source=generator&si=b81824fdde4f4a2e" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-En octubre de 2026 deasarollé un ejercicio en clase en el que pretendía examinar los primeros registros. Recojo mis apuntes y *bulletpoints* de ese ejercicio. 
+En octubre de 2026 deasarrollé un ejercicio en clase en el que pretendía examinar los primeros registros. Recojo mis apuntes y *bulletpoints* de ese ejercicio. 
 ## ¿Qué evalué en términos de éxito?
 
 - Hay una vocación de capturar lo específico y cerrarlo. 
