@@ -7,7 +7,7 @@ A finales de septiembre de 2026 comencé a registrar un proceso de experimentaci
 Los registros están nombrados con su fecha siguiendo el formato DD-MM. 
 ## Septiembre
 
-El primer momento de producción de registros fue [septiembre de 2026](<Registros Septiembre.md>). Allí, noté que la estrategia de registrar [sesiones](Sesiones de lectura y escritura) tenía gran potencial para indagar sobre lo material en la escritura. En las [[Fotos]] aparecen escritorios, libros, cuadernos, marcadores, pastillas, remedios para el resfrío, cables, ropa, hojas, frascos, vasos, pegamento, lentes. 
+El primer momento de producción de registros fue [septiembre de 2026](<Registros Septiembre.md>). Allí, noté que la estrategia de registrar [sesiones](<Sesiones de lectura y escritura>) tenía gran potencial para indagar sobre lo material en la escritura. En las [[Fotos]] aparecen escritorios, libros, cuadernos, marcadores, pastillas, remedios para el resfrío, cables, ropa, hojas, frascos, vasos, pegamento, lentes. 
 
 En octubre hicimos un ejercicio en clase que me permitió repensar estos primeros registros: [[Sobre registros de septiembre]]. A continuación, presento la ideas centrales: 
 
