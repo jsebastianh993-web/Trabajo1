@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-EN
+  locale: en-US
   baseUrl: jsebastianh993-web.github.io/Trabajo1
   ignorePatterns:
     - private
