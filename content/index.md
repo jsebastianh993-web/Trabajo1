@@ -5,31 +5,33 @@ Sebastián Ortiz
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0fOjUafaAhJV16oRBgCtz7?utm_source=generator&theme=0&si=5eec70e760de48e1" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Leer y escribir aún son prácticas centrales en la educación superior. [La productividad académica se ha disparado](https://arxiv.org/html/2412.07727v2) en todos los campos disciplinares y la colaboración y generación de investigación con Inteligencia Artificial Generativa (IAG) ha comenzado a producir [resultados de investigación cada vez más complejos en áreas como la física y las matemáticas](https://terrytao.wordpress.com/2026/09/15/the-technical-debt-of-ai-generated-mathematics/). Los científicos en estas áreas se enfrentan hoy a una proliferación de producción que insta a leer y escribir  cada vez más textos. Así, las revisiones de literatura científica publicadas cada vez abarcan más bibliografía y la comunidad académica ha comenzado a [repensar la lógica misma de este género discursivo](https://doi.org/10.1007/s11301-025-00513-9). 
+Leer y escribir aún son prácticas centrales en la educación superior. [La productividad académica se ha disparado](https://arxiv.org/html/2412.07727v2) en todos los campos disciplinares y la colaboración y generación de investigación con Inteligencia Artificial Generativa (IAG) ha comenzado a producir [resultados de investigación cada vez más complejos y abundantes](https://terrytao.wordpress.com/2026/09/15/the-technical-debt-of-ai-generated-mathematics/). Las comunidades académicas se enfrentan hoy a una proliferación de producción que insta a leer y escribir cada vez más. En consecuencia, las revisiones de literatura científica publicadas cada vez abarcan más bibliografía y la comunidad académica ha comenzado a [repensar la lógica misma de este género discursivo](https://doi.org/10.1007/s11301-025-00513-9). 
 
 Pese a esto, también se ha llegado a formular que el creciente uso de IAG y los índices de lectura de estudiantes pueden significar el ["el fin de la lectura"](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/) en las universidades. Si bien la literatura sobre lectura invita a matizar esta afirmación (Kreijkes et al., 2026), es inevitable reconocer ciertos desplazamientos. 
 
 La educación superior gira cada vez más hacia las modalidades online y otras formas de digitalización altamente influenciadas por el desarrollo de la IAG (UNESCO, 2026). En tanto, las prácticas de lectura y escritura cotidianas se están transformando marcadamente en los contextos académicos (Zavala, 2026). 
 
-Sin embargo, en el campo de la investigación sobre [Literacidades Académicas](Prácticas letradas), aún se indaga poco sobre este contexto sin reducirlo a traducciones de problemas pasados. Por ejemplo, se ha propuesto que la IA puede conllevar la pérdida de voz autorial (Sandstead & Kibler, 2025), algo que también ya se ha señalado respecto a prácticas de retroalimentación, escritura ensayística y formas de plagio (Lillis, 2001). Otros estudios advierten sobre la posible delegación de tareas y los obstáculos a la agencia (Jin et al., 2026), pero mantienen su foco en el proceso individual de aprendizaje sin reconocer la producción de prácticas situadas y materiales. 
+Sin embargo, en el campo de la investigación sobre [Literacidades Académicas](Prácticas letradas), aún se indaga poco sobre este contexto sin reducirlo a traducciones de problemas pasados. Por ejemplo, se ha propuesto que la IA puede conllevar la pérdida de voz autorial (Sandstead & Kibler, 2025), algo que se ha señalado extensamente respecto a prácticas de retroalimentación y formas de plagio en el pasado (Lillis, 2001). Otros estudios advierten sobre la posible delegación de tareas y los obstáculos a la agencia (Jin et al., 2026), pero mantienen su foco y preocupación en el proceso individual de aprendizaje individual sin reconocer la producción de diferencias, corporalidades y materialidad en las prácticas de literacidad concretas. 
 
-La discusión sobre la agencia y la voz con frecuencia se pregunta por la constitución de la subjetividad en la lectura y la escritura. Este sujeto que se busca, con frecuencia, es un sujeto idéntico a sí mismo, un individuo liberal. Con esto, dejamos de lado dimensiones materiales, digitales, culturales y sociales de leer y escribir. 
+Así, la discusión sobre la agencia y la voz de estudiantes y docentes y sus prácticas con frecuencia pone su foco en reconocer sujetos deseables. Este sujeto que se busca en la investigación, con frecuencia es un individuo liberal, capaz de constituirse a sí mismo con una identidad y una voz que lo diferencia. 
 
-Creo que vale la pena preguntarse ¿qué relaciones existen entre los dispositivos, los objetos, las herramientas digitales, los contextos sociales y nuestras formas de leer y escribir? ¿los estudiantes y docentes de postgrado, involucrados en comunidades académicas, estamos leyendo distinto? ¿cómo podemos indagar sobre las formas en que escribimos y leemos cotidianamente en nuestras casas y universidades ? 
+Ahora bien, más allá de su aparente carácter individual y mental, incluso en la distancia y en soledad, leer y escribir son prácticas sociales (Street, 1999) y materiales atravesadas por tecnologías (Boyle, 2016). Cuando leemos y escribimos lo hacemos con fines sociales específicos (Zavala, 2026) producimos nuestros cuerpos en contacto con otros (Rule, 2018) y estamos atravesados por tecnologías digitales y análogas a las que nos conectamos (Deleuze & Guatari, 1987).
+
+Creo que vale la pena entonces preguntarse ¿qué relaciones existen entre los dispositivos, los objetos, las herramientas digitales, los contextos sociales y nuestras formas de leer y escribir? ¿los estudiantes y docentes de postgrado, involucrados en comunidades académicas, estamos leyendo distinto? ¿cómo podemos indagar sobre las formas en que escribimos y leemos cotidianamente en nuestras casas y universidades? 
 
 Estas interrogantes fueron el punto de partida de [este espacio](#Nodos).
 
 ## Indagación
 
-El [giro afectivo](Afectos.md), la teoría [materialista](Materialidad) y la indagación sobre el [cuerpo](Cuerpo) ofrecen una posibilidad para reconocer dimensiones materiales, encarnadas y no-humanas de la escritura y la lectura académica que tendemos a omitir en los estudios sobre literacidad. Más allá de su aparente carácter individual y mental, incluso en la distancia y en soledad, leer y escribir son prácticas sociales (Street, 1999) y materiales atravesadas por tecnologías (Boyle, 2016). La pregunta que exploro actualmente en este sitio es:
+El [giro afectivo](Afectos.md), la teoría [materialista](Materialidad) y la indagación sobre el [cuerpo](Cuerpo) ofrecen posibilidades para reconocer dimensiones materiales, encarnadas y no-humanas de la escritura y la lectura académica que tendemos a omitir en los estudios sobre literacidad.  La pregunta que exploro actualmente en este sitio es:
 
-*¿Cómo se producen afectiva y materialmente las [prácticas de literacidad académica](Prácticas de literacidad) de estudiantes de magíster (online/presencial)?*
+*¿Cómo se producen afectiva y materialmente las [prácticas de literacidad académica](Prácticas de literacidad) de estudiantes de magíster?*
 
 ## **Navegar este sitio**
 
-El espacio está compuesto por notas, carpetas y un grafo cartográfico. Todos abren distintas [rutas de exploración](Navegar.md). Las entradas centrales de **los nodos** están enlazadas [al final de esta nota](#Nodos).  En esta versión algunas notas tienen música que puede reproducirse directamente desde el sitio.
+El espacio está compuesto por notas, carpetas y un grafo cartográfico. Todos abren distintas [rutas de exploración](Navegar.md).  En esta versión algunas notas tienen música que puede reproducirse directamente desde el sitio.
 
-Una lectura lineal podría comenzar por el arreglo inicial y seguir el orden de las carpetas (01-06) hasta los intentos. Aun así, la estructura del sitio busca hacer posible una [lectura fragmentaria](Navegar.md) que (quizá) está conectada a formas de leer que usamos cotidianamente (para trabajar, estudiar, comunicarnos, navegar, interactuar en un Chat con IAG, entre otras). 
+Una lectura lineal podría comenzar por el arreglo inicial y seguir el orden de las carpetas y nodos (01-07) hasta los intentos. Aun así, la estructura del sitio busca hacer posible una [lectura fragmentaria](Navegar.md) que (quizá) está conectada a formas de leer que usamos cotidianamente (para trabajar, estudiar, comunicarnos, navegar, interactuar en un Chat con IAG, entre otras). 
 
 ## Nodos
 
@@ -37,7 +39,7 @@ Una lectura lineal podría comenzar por el arreglo inicial y seguir el orden de 
 - [[Afectos]]: Concepto que reorganiza la propuesta inicial. 
 - [[Arreglo desplazado]]: Desplazamiento conceptual del arreglo inicial. 
 - [[Ensamblaje de investigación]]: Configuración de un ensamblaje de investigación. Reúne las posibles formas de producir/analizar/instar/articular datos.
-- [[Intentos]]: Registros de intentos. Aún en desarrollo
+- [[Intentos]]: Registros de intentos de producción y organización de datos.
 
 ## Versiones
 
@@ -49,6 +51,6 @@ En su V1, el espacio reunió el desplazamiento de algunas de mis ideas de invest
 
 Esta segunda versión busca explorar y poner a prueba formas de producir datos. Es el resumen de un [[Ensamblaje de investigación]] sobre leer y escribir en la educación superior posgradual en el presente. Recojo también algunos [[Intentos]] que producen datos para mi investigación. 
 
-*El código de migración de notas desde la aplicación Obsidian hacia el repositorio git en Quartz que permite esta visualización fue asistido con Claude AI.*
+*El código de migración de datos desde la aplicación Obsidian hacia el repositorio git en Quartz que permite esta visualización fue asistido con Claude AI.*
 
 ## [[Referencias]]
